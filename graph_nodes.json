@@ -1,0 +1,1687 @@
+[
+    {
+        "id": "ROOT-163",
+        "text_en": "European Social Charter (Revised) ",
+        "label_en": "Document Root",
+        "text_fr": "Charte sociale européenne (révisée)",
+        "label_fr": "Racine du document",
+        "children": ["PREAMBLE-163", "P1-00-163","P2-00-163","P3-00-163","P4-00-163", "P5-00-163", "P6-00-163","signature-00-163"]
+    },
+    {
+        "id": "PREAMBLE-163",
+        "text_en": "The governments signatory hereto, being members of the Council of Europe, ",
+        "label_en": "Preamble",
+        "text_fr": "Les gouvernements signataires, membres du Conseil de l'Europe,",
+        "label_fr": "Préambule",
+        "children": []
+    },
+    {
+        "id": "P1-00-163",
+        "text_en": "The Parties accept as the aim of their policy, to be pursued by all appropriate means both national and international in character, the attainment of conditions in which the following rights and principles may be effectively realised: ",
+        "label_en": "Part I, Introduction",
+        "text_fr": "Les Parties reconnaissent comme objectif d'une politique qu'elles poursuivront par tous les moyens utiles, sur les plans national et international, la réalisation de conditions propres à assurer l'exercice effectif des droits et principes suivants:",
+        "label_fr": "Partie I, Introduction",
+        "children": [
+            "P1-01-163", "P1-02-163", "P1-03-163", "P1-04-163", "P1-05-163",
+            "P1-06-163", "P1-07-163", "P1-08-163", "P1-09-163", "P1-10-163",
+            "P1-11-163", "P1-12-163", "P1-13-163", "P1-14-163", "P1-15-163",
+            "P1-16-163", "P1-17-163", "P1-18-163", "P1-19-163", "P1-20-163",
+            "P1-21-163", "P1-22-163", "P1-23-163", "P1-24-163", "P1-25-163",
+            "P1-26-163", "P1-27-163", "P1-28-163", "P1-29-163", "P1-30-163",
+            "P1-31-163"
+        ]
+    },
+    {
+        "id": "P1-01-163",
+        "text_en": "Everyone shall have the opportunity to earn his living in an occupation freely entered upon. ",
+        "label_en": "Part I, Point 1",
+        "text_fr": "Toute personne doit avoir la possibilité de gagner sa vie par un travail librement entrepris.",
+        "label_fr": "Partie I, Point 1",
+        "children": []
+    },
+    {
+        "id": "P1-02-163",
+        "text_en": "All workers have the right to just conditions of work. ",
+        "label_en": "Part I, Point 2",
+        "text_fr": "Tous les travailleurs ont droit à des conditions de travail équitables.",
+        "label_fr": "Partie I, Point 2",
+        "children": []
+    },
+    {
+        "id": "P1-03-163",
+        "text_en": "All workers have the right to safe and healthy working conditions. ",
+        "label_en": "Part I, Point 3",
+        "text_fr": "Tous les travailleurs ont droit à la sécurité et à l'hygiène dans le travail.",
+        "label_fr": "Partie I, Point 3",
+        "children": []
+    },
+    {
+        "id": "P1-04-163",
+        "text_en": "All workers have the right to a fair remuneration sufficient for a decent standard of living for themselves and their families. ",
+        "label_en": "Part I, Point 4",
+        "text_fr": "Tous les travailleurs ont droit à une rémunération équitable leur assurant, ainsi qu'à leurs familles, un niveau de vie satisfaisant.",
+        "label_fr": "Partie I, Point 4",
+        "children": []
+    },
+    {
+        "id": "P1-05-163",
+        "text_en": "All workers and employers have the right to freedom of association in national or international organisations for the protection of their economic and social interests. ",
+        "label_en": "Part I, Point 5",
+        "text_fr": "Tous les travailleurs et employeurs ont le droit de s'associer librement au sein d'organisations nationales ou internationales pour la protection de leurs intérêts économiques et sociaux.",
+        "label_fr": "Partie I, Point 5",
+        "children": []
+    },
+    {
+        "id": "P1-06-163",
+        "text_en": "All workers and employers have the right to bargain collectively. ",
+        "label_en": "Part I, Point 6",
+        "text_fr": "Tous les travailleurs et employeurs ont le droit de négocier collectivement.",
+        "label_fr": "Partie I, Point 6",
+        "children": []
+    },
+    {
+        "id": "P1-07-163",
+        "text_en": "Children and young persons have the right to a special protection against the physical and moral hazards to which they are exposed. ",
+        "label_en": "Part I, Point 7",
+        "text_fr": "Les enfants et les adolescents ont droit à une protection spéciale contre les dangers physiques et moraux auxquels ils sont exposés.",
+        "label_fr": "Partie I, Point 7",
+        "children": []
+    },
+    {
+        "id": "P1-08-163",
+        "text_en": "Employed women, in case of maternity, have the right to a special protection. ",
+        "label_en": "Part I, Point 8",
+        "text_fr": "Les travailleuses, en cas de maternité, ont droit à une protection spéciale.",
+        "label_fr": "Partie I, Point 8",
+        "children": []
+    },
+    {
+        "id": "P1-09-163",
+        "text_en": "Everyone has the right to appropriate facilities for vocational guidance with a view to helping him choose an occupation suited to his personal aptitude and interests. ",
+        "label_en": "Part I, Point 9",
+        "text_fr": "Toute personne a droit à des moyens appropriés d'orientation professionnelle, en vue de l'aider à choisir une profession conformément à ses aptitudes personnelles et à ses intérêts.",
+        "label_fr": "Partie I, Point 9",
+        "children": []
+    },
+    {
+        "id": "P1-10-163",
+        "text_en": "Everyone has the right to appropriate facilities for vocational training. ",
+        "label_en": "Part I, Point 10",
+        "text_fr": "Toute personne a droit à des moyens appropriés de formation professionnelle.",
+        "label_fr": "Partie I, Point 10",
+        "children": []
+    },
+    {
+        "id": "P1-11-163",
+        "text_en": "Everyone has the right to benefit from any measures enabling him to enjoy the highest possible standard of health attainable. ",
+        "label_en": "Part I, Point 11",
+        "text_fr": "Toute personne a le droit de bénéficier de toutes les mesures lui permettant de jouir du meilleur état de santé qu'elle puisse atteindre.",
+        "label_fr": "Partie I, Point 11",
+        "children": []
+    },
+    {
+        "id": "P1-12-163",
+        "text_en": "All workers and their dependents have the right to social security. ",
+        "label_en": "Part I, Point 12",
+        "text_fr": "Tous les travailleurs et leurs ayants droit ont droit à la sécurité sociale.",
+        "label_fr": "Partie I, Point 12",
+        "children": []
+    },
+    {
+        "id": "P1-13-163",
+        "text_en": "Anyone without adequate resources has the right to social and medical assistance. ",
+        "label_en": "Part I, Point 13",
+        "text_fr": "Toute personne démunie de ressources suffisantes a droit à l'assistance sociale et médicale.",
+        "label_fr": "Partie I, Point 13",
+        "children": []
+    },
+    {
+        "id": "P1-14-163",
+        "text_en": "Everyone has the right to benefit from social welfare services. ",
+        "label_en": "Part I, Point 14",
+        "text_fr": "Toute personne a le droit de bénéficier de services sociaux qualifiés.",
+        "label_fr": "Partie I, Point 14",
+        "children": []
+    },
+    {
+        "id": "P1-15-163",
+        "text_en": "Disabled persons have the right to independence, social integration and participation in the life of the community. ",
+        "label_en": "Part I, Point 15",
+        "text_fr": "Toute personne handicapée a droit à l'autonomie, à l'intégration sociale et à la participation à la vie de la communauté.",
+        "label_fr": "Partie I, Point 15",
+        "children": []
+    },
+    {
+        "id": "P1-16-163",
+        "text_en": "The family as a fundamental unit of society has the right to appropriate social, legal and economic protection to ensure its full development. ",
+        "label_en": "Part I, Point 16",
+        "text_fr": "La famille, en tant que cellule fondamentale de la société, a droit à une protection sociale, juridique et économique appropriée pour assurer son plein développement.",
+        "label_fr": "Partie I, Point 16",
+        "children": []
+    },
+    {
+        "id": "P1-17-163",
+        "text_en": "Children and young persons have the right to appropriate social, legal and economic protection. ",
+        "label_en": "Part I, Point 17",
+        "text_fr": "Les enfants et les adolescents ont droit à une protection sociale, juridique et économique appropriée.",
+        "label_fr": "Partie I, Point 17",
+        "children": []
+    },
+    {
+        "id": "P1-18-163",
+        "text_en": "The nationals of any one of the Parties have the right to engage in any gainful occupation in the territory of any one of the others on a footing of equality with the nationals of the latter, subject to restrictions based on cogent economic or social reasons. ",
+        "label_en": "Part I, Point 18",
+        "text_fr": "Les ressortissants de l'une des Parties ont le droit d'exercer sur le territoire d'une autre Partie toute activité lucrative, sur un pied d'égalité avec les nationaux de cette dernière, sous réserve des restrictions fondées sur des raisons sérieuses de caractère économique ou social.",
+        "label_fr": "Partie I, Point 18",
+        "children": []
+    },
+    {
+        "id": "P1-19-163",
+        "text_en": "Migrant workers who are nationals of a Party and their families have the right to protection and assistance in the territory of any other Party. ",
+        "label_en": "Part I, Point 19",
+        "text_fr": "Les travailleurs migrants ressortissants de l'une des Parties et leurs familles ont droit à la protection et à l'assistance sur le territoire de toute autre Partie.",
+        "label_fr": "Partie I, Point 19",
+        "children": []
+    },
+    {
+        "id": "P1-20-163",
+        "text_en": "All workers have the right to equal opportunities and equal treatment in matters of employment and occupation without discrimination on the grounds of sex. ",
+        "label_en": "Part I, Point 20",
+        "text_fr": "Tous les travailleurs ont droit à l'égalité de chances et de traitement en matière d'emploi et de profession, sans discrimination fondée sur le sexe.",
+        "label_fr": "Partie I, Point 20",
+        "children": []
+    },
+    {
+        "id": "P1-21-163",
+        "text_en": "Workers have the right to be informed and to be consulted within the undertaking. ",
+        "label_en": "Part I, Point 21",
+        "text_fr": "Les travailleurs ont droit à l'information et à la consultation au sein de l'entreprise.",
+        "label_fr": "Partie I, Point 21",
+        "children": []
+    },
+    {
+        "id": "P1-22-163",
+        "text_en": "Workers have the right to take part in the determination and improvement of the working conditions and working environment in the undertaking. ",
+        "label_en": "Part I, Point 22",
+        "text_fr": "Les travailleurs ont le droit de prendre part à la détermination et à l'amélioration des conditions de travail et du milieu du travail dans l'entreprise.",
+        "label_fr": "Partie I, Point 22",
+        "children": []
+    },
+    {
+        "id": "P1-23-163",
+        "text_en": "Every elderly person has the right to social protection. ",
+        "label_en": "Part I, Point 23",
+        "text_fr": "Toute personne âgée a droit à une protection sociale.",
+        "label_fr": "Partie I, Point 23",
+        "children": []
+    },
+    {
+        "id": "P1-24-163",
+        "text_en": "All workers have the right to protection in cases of termination of employment. ",
+        "label_en": "Part I, Point 24",
+        "text_fr": "Tous les travailleurs ont droit à une protection en cas de licenciement.",
+        "label_fr": "Partie I, Point 24",
+        "children": []
+    },
+    {
+        "id": "P1-25-163",
+        "text_en": "All workers have the right to protection of their claims in the event of the insolvency of their employer. ",
+        "label_en": "Part I, Point 25",
+        "text_fr": "Tous les travailleurs ont droit à la protection de leurs créances en cas d'insolvabilité de leur employeur.",
+        "label_fr": "Partie I, Point 25",
+        "children": []
+    },
+    {
+        "id": "P1-26-163",
+        "text_en": "All workers have the right to dignity at work. ",
+        "label_en": "Part I, Point 26",
+        "text_fr": "Tous les travailleurs ont droit à la dignité dans le travail.",
+        "label_fr": "Partie I, Point 26",
+        "children": []
+    },
+    {
+        "id": "P1-27-163",
+        "text_en": "All persons with family responsibilities and who are engaged or wish to engage in employment have a right to do so without being subject to discrimination and as far as possible without conflict between their employment and family responsibilities. ",
+        "label_en": "Part I, Point 27",
+        "text_fr": "Toutes les personnes ayant des responsabilités familiales et occupant ou souhaitant occuper un emploi sont en droit de le faire sans être soumises à des discriminations et autant que possible sans qu'il y ait conflit entre leur emploi et leurs responsabilités familiales.",
+        "label_fr": "Partie I, Point 27",
+        "children": []
+    },
+    {
+        "id": "P1-28-163",
+        "text_en": "Workers' representatives in undertakings have the right to protection against acts prejudicial to them and should be afforded appropriate facilities to carry out their functions. ",
+        "label_en": "Part I, Point 28",
+        "text_fr": "Les représentants des travailleurs dans l'entreprise ont droit à la protection contre les actes susceptibles de leur porter préjudice et doivent avoir les facilités appropriées pour remplir leurs fonctions.",
+        "label_fr": "Partie I, Point 28",
+        "children": []
+    },
+    {
+        "id": "P1-29-163",
+        "text_en": "All workers have the right to be informed and consulted in collective redundancy procedures. ",
+        "label_en": "Part I, Point 29",
+        "text_fr": "Tous les travailleurs ont le droit d'être informés et consultés dans les procédures de licenciements collectifs.",
+        "label_fr": "Partie I, Point 29",
+        "children": []
+    },
+    {
+        "id": "P1-30-163",
+        "text_en": "Everyone has the right to protection against poverty and social exclusion. ",
+        "label_en": "Part I, Point 30",
+        "text_fr": "Toute personne a droit à la protection contre la pauvreté et l'exclusion sociale.",
+        "label_fr": "Partie I, Point 30",
+        "children": []
+    },
+    {
+        "id": "P1-31-163",
+        "text_en": "Everyone has the right to housing. ",
+        "label_en": "Part I, Point 31",
+        "text_fr": "Toute personne a droit au logement.",
+        "label_fr": "Partie I, Point 31",
+        "children": []
+    },
+    {
+        "id": "P2-00-163",
+        "text_en": "The Parties undertake, as provided for in Part III, to consider themselves bound by the obligations laid down in the following articles and paragraphs.",
+        "label_en": "Part II, Introduction",
+        "text_fr": "Les Parties s'engagent à se considérer comme liées, ainsi que prévu à la partie III, par les obligations résultant des articles et des paragraphes ci-après.",
+        "label_fr": "Partie II, Introduction",
+        "children": [
+            "P2-01-00-163", "P2-02-00-163", "P2-03-00-163",
+            "P2-04-00-163", "P2-05-00-163"
+        ]
+    },
+    {
+        "id": "P2-01-00-163",
+        "text_en": "Article 1 - The right to work\nWith a view to ensuring the effective exercise of the right to work, the Parties undertake:",
+        "label_en": "Article 1, Introduction",
+        "text_fr": "Article 1 - Droit au travail\nEn vue d'assurer l'exercice effectif du droit au travail, les Parties s'engagent:",
+        "label_fr": "Article 1, Introduction",
+        "children": [
+            "P2-01-01-163", "P2-01-02-163", "P2-01-03-163", "P2-01-04-163"
+        ]
+    },
+    {
+        "id": "P2-01-01-163",
+        "text_en": "to accept as one of their primary aims and responsibilities the achievement and maintenance of as high and stable a level of employment as possible, with a view to the attainment of full employment;",
+        "label_en": "Article 1, Paragraph 1",
+        "text_fr": "à reconnaître comme l'un de leurs principaux objectifs et responsabilités la réalisation et le maintien du niveau le plus élevé et le plus stable possible de l'emploi en vue de la réalisation du plein emploi;",
+        "label_fr": "Article 1, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-01-02-163",
+        "text_en": "to protect effectively the right of the worker to earn his living in an occupation freely entered upon;",
+        "label_en": "Article 1, Paragraph 2",
+        "text_fr": "à protéger de façon efficace le droit pour le travailleur de gagner sa vie par un travail librement entrepris;",
+        "label_fr": "Article 1, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-01-03-163",
+        "text_en": "to establish or maintain free employment services for all workers;",
+        "label_en": "Article 1, Paragraph 3",
+        "text_fr": "à établir ou à maintenir des services gratuits de l'emploi pour tous les travailleurs;",
+        "label_fr": "Article 1, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-01-04-163",
+        "text_en": "to provide or promote appropriate vocational guidance, training and rehabilitation.",
+        "label_en": "Article 1, Paragraph 4",
+        "text_fr": "à assurer ou à favoriser une orientation, une formation et une réadaptation professionnelles appropriées.",
+        "label_fr": "Article 1, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-02-00-163",
+        "text_en": "Article 2 - The right to just conditions of work\nWith a view to ensuring the effective exercise of the right to just conditions of work, the Parties undertake:",
+        "label_en": "Article 2, Introduction",
+        "text_fr": "Article 2 - Droit à des conditions de travail équitables\nEn vue d'assurer l'exercice effectif du droit à des conditions de travail équitables, les Parties s'engagent:",
+        "label_fr": "Article 2, Introduction",
+        "children": [
+            "P2-02-01-163", "P2-02-02-163", "P2-02-03-163",
+            "P2-02-04-163", "P2-02-05-163", "P2-02-06-163", "P2-02-07-163"
+        ]
+    },
+    {
+        "id": "P2-02-01-163",
+        "text_en": "to provide for reasonable daily and weekly working hours, the working week to be progressively reduced to the extent that the increase of productivity and other relevant factors permit;",
+        "label_en": "Article 2, Paragraph 1",
+        "text_fr": "à fixer une durée raisonnable au travail journalier et hebdomadaire, la semaine de travail devant être progressivement réduite pour autant que l'augmentation de la productivité et les autres facteurs entrant en jeu le permettent;",
+        "label_fr": "Article 2, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-02-02-163",
+        "text_en": "to provide for public holidays with pay;",
+        "label_en": "Article 2, Paragraph 2",
+        "text_fr": "à prévoir des jours fériés payés;",
+        "label_fr": "Article 2, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-02-03-163",
+        "text_en": "to provide for a minimum of four weeks' annual holiday with pay;",
+        "label_en": "Article 2, Paragraph 3",
+        "text_fr": "à assurer l'octroi d'un congé payé annuel de quatre semaines au minimum;",
+        "label_fr": "Article 2, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-02-04-163",
+        "text_en": "to eliminate risks in inherently dangerous or unhealthy occupations, and where it has not yet been possible to eliminate or reduce sufficiently these risks, to provide for either a reduction of working hours or additional paid holidays for workers engaged in such occupations;",
+        "label_en": "Article 2, Paragraph 4",
+        "text_fr": "à éliminer les risques inhérents aux occupations dangereuses ou insalubres et, lorsque ces risques n'ont pas encore pu être éliminés ou suffisamment réduits, à assurer aux travailleurs employés à de telles occupations soit une réduction de la durée du travail, soit des congés payés supplémentaires;",
+        "label_fr": "Article 2, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-02-05-163",
+        "text_en": "to ensure a weekly rest period which shall, as far as possible, coincide with the day recognised by tradition or custom in the country or region concerned as a day of rest;",
+        "label_en": "Article 2, Paragraph 5",
+        "text_fr": "à assurer un repos hebdomadaire qui coïncide autant que possible avec le jour de la semaine reconnu comme jour de repos par la tradition ou les usages du pays ou de la région;",
+        "label_fr": "Article 2, Paragraphe 5",
+        "children": []
+    },
+    {
+        "id": "P2-02-06-163",
+        "text_en": "to ensure that workers are informed in written form, as soon as possible, and in any event not later than two months after the date of commencing their employment, of the essential aspects of the contract or employment relationship;",
+        "label_en": "Article 2, Paragraph 6",
+        "text_fr": "à veiller à ce que les travailleurs soient informés par écrit aussitôt que possible et en tout état de cause au plus tard deux mois après le début de leur emploi des aspects essentiels du contrat ou de la relation de travail;",
+        "label_fr": "Article 2, Paragraphe 6",
+        "children": []
+    },
+    {
+        "id": "P2-02-07-163",
+        "text_en": "to ensure that workers performing night work benefit from measures which take account of the special nature of the work.",
+        "label_en": "Article 2, Paragraph 7",
+        "text_fr": "à faire en sorte que les travailleurs effectuant un travail de nuit bénéficient de mesures qui tiennent compte de la nature spéciale de ce travail.",
+        "label_fr": "Article 2, Paragraphe 7",
+        "children": []
+    },
+    {
+        "id": "P2-03-00-163",
+        "text_en": "Article 3 - The right to safe and healthy working conditions\nWith a view to ensuring the effective exercise of the right to safe and healthy working conditions, the Parties undertake, in consultation with employers' and workers' organisations:",
+        "label_en": "Article 3, Introduction",
+        "text_fr": "Article 3 - Droit à la sécurité et à l'hygiène dans le travail\nEn vue d'assurer l'exercice effectif du droit à la sécurité et à l'hygiène dans le travail, les Parties s'engagent, en consultation avec les organisations d'employeurs et de travailleurs:",
+        "label_fr": "Article 3, Introduction",
+        "children": [
+            "P2-03-01-163", "P2-03-02-163", "P2-03-03-163", "P2-03-04-163"
+        ]
+    },
+    {
+        "id": "P2-03-01-163",
+        "text_en": "to formulate, implement and periodically review a coherent national policy on occupational safety, occupational health and the working environment. The primary aim of this policy shall be to improve occupational safety and health and to prevent accidents and injury to health arising out of, linked with or occurring in the course of work, particularly by minimising the causes of hazards inherent in the working environment;",
+        "label_en": "Article 3, Paragraph 1",
+        "text_fr": "à définir, mettre en œuvre et réexaminer périodiquement une politique nationale cohérente en matière de sécurité, de santé des travailleurs et de milieu de travail. Cette politique aura pour objet primordial d'améliorer la sécurité et l'hygiène professionnelles et de prévenir les accidents et les atteintes à la santé qui résultent du travail, sont liés au travail ou surviennent au cours du travail, notamment en réduisant au minimum les causes des risques inhérents au milieu de travail;",
+        "label_fr": "Article 3, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-03-02-163",
+        "text_en": "to issue safety and health regulations;",
+        "label_en": "Article 3, Paragraph 2",
+        "text_fr": "à édicter des règlements de sécurité et d'hygiène;",
+        "label_fr": "Article 3, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-03-03-163",
+        "text_en": "to provide for the enforcement of such regulations by measures of supervision;",
+        "label_en": "Article 3, Paragraph 3",
+        "text_fr": "à édicter des mesures de contrôle de l'application de ces règlements;",
+        "label_fr": "Article 3, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-03-04-163",
+        "text_en": "to promote the progressive development of occupational health services for all workers with essentially preventive and advisory functions.",
+        "label_en": "Article 3, Paragraph 4",
+        "text_fr": "à promouvoir l'institution progressive des services de santé au travail pour tous les travailleurs, avec des fonctions essentiellement préventives et de conseil.",
+        "label_fr": "Article 3, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-04-00-163",
+        "text_en": "Article 4 - The right to a fair remuneration\nWith a view to ensuring the effective exercise of the right to a fair remuneration, the Parties undertake:\n[...]\nThe exercise of these rights shall be achieved by freely concluded collective agreements, by statutory wage-fixing machinery, or by other means appropriate to national conditions.",
+        "label_en": "Article 4, Introduction",
+        "text_fr": "Article 4 - Droit à une rémunération équitable\nEn vue d'assurer l'exercice effectif du droit à une rémunération équitable, les Parties s'engagent:\n[...]\nL'exercice de ces droits doit être assuré soit par voie de conventions collectives librement conclues, soit par des méthodes légales de fixation des salaires, soit de toute autre manière appropriée aux conditions nationales.",
+        "label_fr": "Article 4, Introduction",
+        "children": [
+            "P2-04-01-163", "P2-04-02-163", "P2-04-03-163",
+            "P2-04-04-163", "P2-04-05-163"
+        ]
+    },
+    {
+        "id": "P2-04-01-163",
+        "text_en": "to recognise the right of workers to a remuneration such as will give them and their families a decent standard of living;",
+        "label_en": "Article 4, Paragraph 1",
+        "text_fr": "à reconnaître le droit des travailleurs à une rémunération suffisante pour leur assurer, ainsi qu'à leurs familles, un niveau de vie décent;",
+        "label_fr": "Article 4, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-04-02-163",
+        "text_en": "to recognise the right of workers to an increased rate of remuneration for overtime work, subject to exceptions in particular cases;",
+        "label_en": "Article 4, Paragraph 2",
+        "text_fr": "à reconnaître le droit des travailleurs à un taux de rémunération majoré pour les heures de travail supplémentaires, exception faite de certains cas particuliers;",
+        "label_fr": "Article 4, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-04-03-163",
+        "text_en": "to recognise the right of men and women workers to equal pay for work of equal value;",
+        "label_en": "Article 4, Paragraph 3",
+        "text_fr": "à reconnaître le droit des travailleurs masculins et féminins à une rémunération égale pour un travail de valeur égale;",
+        "label_fr": "Article 4, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-04-04-163",
+        "text_en": "to recognise the right of all workers to a reasonable period of notice for termination of employment;",
+        "label_en": "Article 4, Paragraph 4",
+        "text_fr": "à reconnaître le droit de tous les travailleurs à un délai de préavis raisonnable dans le cas de cessation de l'emploi;",
+        "label_fr": "Article 4, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-04-05-163",
+        "text_en": "to permit deductions from wages only under conditions and to the extent prescribed by national laws or regulations or fixed by collective agreements or arbitration awards.",
+        "label_en": "Article 4, Paragraph 5",
+        "text_fr": "à n'autoriser des retenues sur les salaires que dans les conditions et limites prescrites par la législation ou la réglementation nationale, ou fixées par des conventions collectives ou des sentences arbitrales.",
+        "label_fr": "Article 4, Paragraphe 5",
+        "children": []
+    },
+    {
+        "id": "P2-05-00-163",
+        "text_en": "Article 5 - The right to organise\nWith a view to ensuring or promoting the freedom of workers and employers to form local, national or international organisations for the protection of their economic and social interests and to join those organisations, the Parties undertake that national law shall not be such as to impair, nor shall it be so applied as to impair, this freedom. The extent to which the guarantees provided for in this article shall apply to the police shall be determined by national laws or regulations. The principle governing the application to the members of the armed forces of these guarantees and the extent to which they shall apply to persons in this category shall equally be determined by national laws or regulations.",
+        "label_en": "Article 5",
+        "text_fr": "Article 5 - Droit syndical\nEn vue de garantir ou de promouvoir la liberté pour les travailleurs et les employeurs de constituer des organisations locales, nationales ou internationales, pour la protection de leurs intérêts économiques et sociaux et d'adhérer à ces organisations, les Parties s'engagent à ce que la législation nationale ne porte pas atteinte, ni ne soit appliquée de manière à porter atteinte à cette liberté. La mesure dans laquelle les garanties prévues au présent article s'appliqueront à la police sera déterminée par la législation ou la réglementation nationale. Le principe de l'application de ces garanties aux membres des forces armées et la mesure dans laquelle elles s'appliqueraient à cette catégorie de personnes sont également déterminés par la législation ou la réglementation nationale.",
+        "label_fr": "Article 5",
+        "children": []
+    },
+    {
+        "id": "P2-06-00-163",
+        "text_en": "Article 6-The right to bargain collectively\nWith a view to ensuring the effective exercise of the right to bargain collectively, the Parties undertake:",
+        "label_en": "Article 6, Introduction",
+        "text_fr": "Article 6 - Droit de négociation collective\nEn vue d'assurer l'exercice effectif du droit de négociation collective, les Parties s'engagent:",
+        "label_fr": "Article 6, Introduction",
+        "children": [
+            "P2-06-01-163", "P2-06-02-163", "P2-06-03-163", "P2-06-04-163"
+        ]
+    },
+    {
+        "id": "P2-06-01-163",
+        "text_en": "to promote joint consultation between workers and employers;",
+        "label_en": "Article 6, Paragraph 1",
+        "text_fr": "à favoriser la consultation paritaire entre travailleurs et employeurs;",
+        "label_fr": "Article 6, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-06-02-163",
+        "text_en": "to promote, where necessary and appropriate, machinery for voluntary negotiations between employers or employers' organisations and workers' organisations, with a view to the regulation of terms and conditions of employment by means of collective agreements;",
+        "label_en": "Article 6, Paragraph 2",
+        "text_fr": "à promouvoir, lorsque cela est nécessaire et utile, l'institution de procédures de négociation volontaire entre les employeurs ou les organisations d'employeurs, d'une part, et les organisations de travailleurs, d'autre part, en vue de régler les conditions d'emploi par des conventions collectives;",
+        "label_fr": "Article 6, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-06-03-163",
+        "text_en": "to promote the establishment and use of appropriate machinery for conciliation and voluntary arbitration for the settlement of labour disputes;",
+        "label_en": "Article 6, Paragraph 3",
+        "text_fr": "à favoriser l'institution et l'utilisation de procédures appropriées de conciliation et d'arbitrage volontaire pour le règlement des conflits du travail;",
+        "label_fr": "Article 6, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-06-04-163",
+        "text_en": "and recognise:\nthe right of workers and employers to collective action in cases of conflicts of interest, including the right to strike, subject to obligations that might arise out of collective agreements previously entered into.",
+        "label_en": "Article 6, Paragraph 4",
+        "text_fr": "et reconnaissent:\nle droit des travailleurs et des employeurs à des actions collectives en cas de conflits d'intérêt, y compris le droit de grève, sous réserve des obligations qui pourraient résulter des conventions collectives en vigueur.",
+        "label_fr": "Article 6, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-07-00-163",
+        "text_en": "Article 7 - The right of children and young persons to protection\nWith a view to ensuring the effective exercise of the right of children and young persons to protection, the Parties undertake:",
+        "label_en": "Article 7, Introduction",
+        "text_fr": "Article 7 - Droit des enfants et des adolescents à la protection\nEn vue d'assurer l'exercice effectif du droit des enfants et des adolescents à la protection, les Parties s'engagent:",
+        "label_fr": "Article 7, Introduction",
+        "children": [
+            "P2-07-01-163", "P2-07-02-163", "P2-07-03-163", "P2-07-04-163",
+            "P2-07-05-163", "P2-07-06-163", "P2-07-07-163", "P2-07-08-163",
+            "P2-07-09-163", "P2-07-10-163"
+        ]
+    },
+    {
+        "id": "P2-07-01-163",
+        "text_en": "to provide that the minimum age of admission to employment shall be 15 years, subject to exceptions for children employed in prescribed light work without harm to their health, morals or education;",
+        "label_en": "Article 7, Paragraph 1",
+        "text_fr": "à fixer à 15 ans l'âge minimum d'admission à l'emploi, des dérogations étant toutefois admises pour les enfants employés à des travaux légers déterminés qui ne risquent pas de porter atteinte à leur santé, à leur moralité ou à leur éducation;",
+        "label_fr": "Article 7, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-07-02-163",
+        "text_en": "to provide that the minimum age of admission to employment shall be 18 years with respect to prescribed occupations regarded as dangerous or unhealthy;",
+        "label_en": "Article 7, Paragraph 2",
+        "text_fr": "à fixer à 18 ans l'âge minimum d'admission à l'emploi pour certaines occupations déterminées, considérées comme dangereuses ou insalubres;",
+        "label_fr": "Article 7, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-07-03-163",
+        "text_en": "to provide that persons who are still subject to compulsory education shall not be employed in such work as would deprive them of the full benefit of their education;",
+        "label_en": "Article 7, Paragraph 3",
+        "text_fr": "à interdire que les enfants encore soumis à l'instruction obligatoire soient employés à des travaux qui les privent du plein bénéfice de cette instruction;",
+        "label_fr": "Article 7, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-07-04-163",
+        "text_en": "to provide that the working hours of persons under 18 years of age shall be limited in accordance with the needs of their development, and particularly with their need for vocational training;",
+        "label_en": "Article 7, Paragraph 4",
+        "text_fr": "à limiter la durée du travail des travailleurs de moins de 18 ans pour qu'elle corresponde aux exigences de leur développement et, plus particulièrement, aux besoins de leur formation professionnelle;",
+        "label_fr": "Article 7, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-07-05-163",
+        "text_en": "to recognise the right of young workers and apprentices to a fair wage or other appropriate allowances;",
+        "label_en": "Article 7, Paragraph 5",
+        "text_fr": "à reconnaître le droit des jeunes travailleurs et apprentis à une rémunération équitable ou à une allocation appropriée;",
+        "label_fr": "Article 7, Paragraphe 5",
+        "children": []
+    },
+    {
+        "id": "P2-07-06-163",
+        "text_en": "to provide that the time spent by young persons in vocational training during the normal working hours with the consent of the employer shall be treated as forming part of the working day;",
+        "label_en": "Article 7, Paragraph 6",
+        "text_fr": "à prévoir que les heures que les adolescents consacrent à la formation professionnelle pendant la durée normale du travail avec le consentement de l'employeur seront considérées comme comprises dans la journée de travail;",
+        "label_fr": "Article 7, Paragraphe 6",
+        "children": []
+    },
+    {
+        "id": "P2-07-07-163",
+        "text_en": "to provide that employed persons of under 18 years of age shall be entitled to a minimum of four weeks' annual holiday with pay;",
+        "label_en": "Article 7, Paragraph 7",
+        "text_fr": "à fixer à quatre semaines au minimum la durée des congés payés annuels des travailleurs de moins de 18 ans;",
+        "label_fr": "Article 7, Paragraphe 7",
+        "children": []
+    },
+    {
+        "id": "P2-07-08-163",
+        "text_en": "to provide that persons under 18 years of age shall not be employed in night work with the exception of certain occupations provided for by national laws or regulations;",
+        "label_en": "Article 7, Paragraph 8",
+        "text_fr": "à interdire l'emploi des travailleurs de moins de 18 ans à des travaux de nuit, exception faite pour certains emplois déterminés par la législation ou la réglementation nationale;",
+        "label_fr": "Article 7, Paragraphe 8",
+        "children": []
+    },
+    {
+        "id": "P2-07-09-163",
+        "text_en": "to provide that persons under 18 years of age employed in occupations prescribed by national laws or regulations shall be subject to regular medical control;",
+        "label_en": "Article 7, Paragraph 9",
+        "text_fr": "à prévoir que les travailleurs de moins de 18 ans occupés dans certains emplois déterminés par la législation ou la réglementation nationale doivent être soumis à un contrôle médical régulier;",
+        "label_fr": "Article 7, Paragraphe 9",
+        "children": []
+    },
+    {
+        "id": "P2-07-10-163",
+        "text_en": "to ensure special protection against physical and moral dangers to which children and young persons are exposed, and particularly against those resulting directly or indirectly from their work.",
+        "label_en": "Article 7, Paragraph 10",
+        "text_fr": "à assurer une protection spéciale contre les dangers physiques et moraux auxquels les enfants et les adolescents sont exposés, et notamment contre ceux qui résultent d'une façon directe ou indirecte de leur travail.",
+        "label_fr": "Article 7, Paragraphe 10",
+        "children": []
+    },
+    {
+        "id": "P2-08-00-163",
+        "text_en": "Article 8 - The right of employed women to protection of maternity\nWith a view to ensuring the effective exercise of the right of employed women to the protection of maternity, the Parties undertake:",
+        "label_en": "Article 8, Introduction",
+        "text_fr": "Article 8 - Droit des travailleuses à la protection de la maternité\nEn vue d'assurer l'exercice effectif du droit des travailleuses à la protection de la maternité, les Parties s'engagent:",
+        "label_fr": "Article 8, Introduction",
+        "children": [
+            "P2-08-01-163", "P2-08-02-163", "P2-08-03-163",
+            "P2-08-04-163", "P2-08-05-163"
+        ]
+    },
+    {
+        "id": "P2-08-01-163",
+        "text_en": "to provide either by paid leave, by adequate social security benefits or by benefits from public funds for employed women to take leave before and after childbirth up to a total of at least fourteen weeks;",
+        "label_en": "Article 8, Paragraph 1",
+        "text_fr": "à assurer aux travailleuses, avant et après l'accouchement, un repos d'une durée totale de quatorze semaines au minimum, soit par un congé payé, soit par des prestations appropriées de sécurité sociale ou par des fonds publics;",
+        "label_fr": "Article 8, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-08-02-163",
+        "text_en": "to consider it as unlawful for an employer to give a woman notice of dismissal during the period from the time she notifies her employer that she is pregnant until the end of her maternity leave, or to give her notice of dismissal at such a time that the notice would expire during such a period;",
+        "label_en": "Article 8, Paragraph 2",
+        "text_fr": "à considérer comme illégal pour un employeur de signifier son licenciement à une femme pendant la période comprise entre le moment où elle notifie sa grossesse à son employeur et la fin de son congé de maternité, ou à une date telle que le délai de préavis expire pendant cette période;",
+        "label_fr": "Article 8, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-08-03-163",
+        "text_en": "to provide that mothers who are nursing their infants shall be entitled to sufficient time off for this purpose;",
+        "label_en": "Article 8, Paragraph 3",
+        "text_fr": "à assurer aux mères qui allaitent leurs enfants des pauses suffisantes à cette fin;",
+        "label_fr": "Article 8, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-08-04-163",
+        "text_en": "to regulate the employment in night work of pregnant women, women who have recently given birth and women nursing their infants;",
+        "label_en": "Article 8, Paragraph 4",
+        "text_fr": "à réglementer le travail de nuit des femmes enceintes, ayant récemment accouché ou allaitant leurs enfants;",
+        "label_fr": "Article 8, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-08-05-163",
+        "text_en": "to prohibit the employment of pregnant women, women who have recently given birth or who are nursing their infants in underground mining and all other work which is unsuitable by reason of its dangerous, unhealthy or arduous nature and to take appropriate measures to protect the employment rights of these women.",
+        "label_en": "Article 8, Paragraph 5",
+        "text_fr": "à interdire l'emploi des femmes enceintes, ayant récemment accouché ou allaitant leurs enfants à des travaux souterrains dans les mines et à tous autres travaux de caractère dangereux, insalubre ou pénible, et à prendre des mesures appropriées pour protéger les droits de ces femmes en matière d'emploi.",
+        "label_fr": "Article 8, Paragraphe 5",
+        "children": []
+    },
+    {
+        "id": "P2-09-00-163",
+        "text_en": "Article 9 - The right to vocational guidance\nWith a view to ensuring the effective exercise of the right to vocational guidance, the Parties undertake to provide or promote, as necessary, a service which will assist all persons, including the handicapped, to solve problems related to occupational choice and progress, with due regard to the individual's characteristics and their relation to occupational opportunity: this assistance should be available free of charge, both to young persons, including schoolchildren, and to adults.",
+        "label_en": "Article 9",
+        "text_fr": "Article 9 - Droit à l'orientation professionnelle\nEn vue d'assurer l'exercice effectif du droit à l'orientation professionnelle, les Parties s'engagent à procurer ou promouvoir, en tant que de besoin, un service qui aidera toutes les personnes, y compris celles qui sont handicapées, à résoudre les problèmes relatifs au choix d'une profession ou à l'avancement professionnel, compte tenu des caractéristiques de l'intéressé et de la relation entre celles-ci et les possibilités du marché de l'emploi; cette aide devra être fournie, gratuitement, tant aux jeunes, y compris les enfants d'âge scolaire, qu'aux adultes.",
+        "label_fr": "Article 9",
+        "children": []
+    },
+    {
+        "id": "P2-10-00-163",
+        "text_en": "Article 10 - The right to vocational training\nWith a view to ensuring the effective exercise of the right to vocational training, the Parties undertake:",
+        "label_en": "Article 10, Introduction",
+        "text_fr": "Article 10 - Droit à la formation professionnelle\nEn vue d'assurer l'exercice effectif du droit à la formation professionnelle, les Parties s'engagent:",
+        "label_fr": "Article 10, Introduction",
+        "children": [
+            "P2-10-01-163", "P2-10-02-163", "P2-10-03-163",
+            "P2-10-04-163", "P2-10-05-163"
+        ]
+    },
+    {
+        "id": "P2-10-01-163",
+        "text_en": "to provide or promote, as necessary, the technical and vocational training of all persons, including the handicapped, in consultation with employers' and workers' organisations, and to grant facilities for access to higher technical and university education, based solely on individual aptitude;",
+        "label_en": "Article 10, Paragraph 1",
+        "text_fr": "à assurer ou à favoriser, en tant que de besoin, la formation technique et professionnelle de toutes les personnes, y compris celles qui sont handicapées, en consultation avec les organisations professionnelles d'employeurs et de travailleurs, et à accorder des moyens permettant l'accès à l'enseignement technique supérieur et à l'enseignement universitaire d'après le seul critère de l'aptitude individuelle;",
+        "label_fr": "Article 10, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-10-02-163",
+        "text_en": "to provide or promote a system of apprenticeship and other systematic arrangements for training young boys and girls in their various employments;",
+        "label_en": "Article 10, Paragraph 2",
+        "text_fr": "à assurer ou à favoriser un système d'apprentissage et d'autres systèmes de formation des jeunes garçons et filles, dans leurs divers emplois;",
+        "label_fr": "Article 10, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-10-03-163",
+        "text_en": "to provide or promote, as necessary:\na adequate and readily available training facilities for adult workers;\nb special facilities for the retraining of adult workers needed as a result of technological development or new trends in employment;",
+        "label_en": "Article 10, Paragraph 3",
+        "text_fr": "à assurer ou à favoriser, en tant que de besoin:\na des mesures appropriées et facilement accessibles en vue de la formation des travailleurs adultes;\nb des mesures spéciales en vue de la rééducation professionnelle des travailleurs adultes, rendue nécessaire par l'évolution technique ou par une orientation nouvelle du marché du travail;",
+        "label_fr": "Article 10, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-10-04-163",
+        "text_en": "to provide or promote, as necessary, special measures for the retraining and reintegration of the long-term unemployed;",
+        "label_en": "Article 10, Paragraph 4",
+        "text_fr": "à assurer ou à favoriser, en tant que de besoin, des mesures particulières de recyclage et de réinsertion des chômeurs de longue durée;",
+        "label_fr": "Article 10, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-10-05-163",
+        "text_en": "to encourage the full utilisation of the facilities provided by appropriate measures such as:\na reducing or abolishing any fees or charges;\nb granting financial assistance in appropriate cases;\nc including in the normal working hours time spent on supplementary training taken by the worker, at the request of his employer, during employment;\nd ensuring, through adequate supervision, in consultation with the employers' and workers' organisations, the efficiency of apprenticeship and other training arrangements for young workers, and the adequate protection of young workers generally.",
+        "label_en": "Article 10, Paragraph 5",
+        "text_fr": "à encourager la pleine utilisation des moyens prévus par des dispositions appropriées telles que:\na la réduction ou l'abolition de tous droits et charges;\nb l'octroi d'une assistance financière dans les cas appropriés;\nc l'inclusion dans les heures normales de travail du temps consacré aux cours supplémentaires de formation suivis pendant l'emploi par le travailleur à la demande de son employeur;\nd la garantie, au moyen d'un contrôle approprié, en consultation avec les organisations professionnelles d'employeurs et de travailleurs, de l'efficacité du système d'apprentissage et de tout autre système de formation pour jeunes travailleurs, et, d'une manière générale, de la protection adéquate des jeunes travailleurs.",
+        "label_fr": "Article 10, Paragraphe 5",
+        "children": []
+    },
+    {
+        "id": "P2-11-00-163",
+        "text_en": "Article 11-The right to protection of health\nWith a view to ensuring the effective exercise of the right to protection of health, the Parties undertake, either directly or in cooperation with public or private organisations, to take appropriate measures designed inter alia:",
+        "label_en": "Article 11, Introduction",
+        "text_fr": "Article 11-Droit à la protection de la santé\nEn vue d'assurer l'exercice effectif du droit à la protection de la santé, les Parties s'engagent à prendre, soit directement, soit en coopération avec les organisations publiques et privées, des mesures appropriées tendant notamment:",
+        "label_fr": "Article 11, Introduction",
+        "children": [
+            "P2-11-01-163", "P2-11-02-163", "P2-11-03-163"
+        ]
+    },
+    {
+        "id": "P2-11-01-163",
+        "text_en": "to remove as far as possible the causes of ill-health;",
+        "label_en": "Article 11, Paragraph 1",
+        "text_fr": "à éliminer, dans la mesure du possible, les causes d'une santé déficiente;",
+        "label_fr": "Article 11, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-11-02-163",
+        "text_en": "to provide advisory and educational facilities for the promotion of health and the encouragement of individual responsibility in matters of health;",
+        "label_en": "Article 11, Paragraph 2",
+        "text_fr": "à prévoir des services de consultation et d'éducation pour ce qui concerne l'amélioration de la santé et le développement du sens de la responsabilité individuelle en matière de santé;",
+        "label_fr": "Article 11, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-11-03-163",
+        "text_en": "to prevent as far as possible epidemic, endemic and other diseases, as well as accidents.",
+        "label_en": "Article 11, Paragraph 3",
+        "text_fr": "à prévenir, dans la mesure du possible, les maladies épidémiques, endémiques et autres, ainsi que les accidents.",
+        "label_fr": "Article 11, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-12-00-163",
+        "text_en": "Article 12-The right to social security\nWith a view to ensuring the effective exercise of the right to social security, the Parties undertake:",
+        "label_en": "Article 12, Introduction",
+        "text_fr": "Article 12- Droit à la sécurité sociale\nEn vue d'assurer l'exercice effectif du droit à la sécurité sociale, les Parties s'engagent:",
+        "label_fr": "Article 12, Introduction",
+        "children": [
+            "P2-12-01-163", "P2-12-02-163", "P2-12-03-163", "P2-12-04-163"
+        ]
+    },
+    {
+        "id": "P2-12-01-163",
+        "text_en": "to establish or maintain a system of social security;",
+        "label_en": "Article 12, Paragraph 1",
+        "text_fr": "à établir ou à maintenir un régime de sécurité sociale;",
+        "label_fr": "Article 12, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-12-02-163",
+        "text_en": "to maintain the social security system at a satisfactory level at least equal to that necessary for the ratification of the European Code of Social Security;",
+        "label_en": "Article 12, Paragraph 2",
+        "text_fr": "à maintenir le régime de sécurité sociale à un niveau satisfaisant, au moins égal à celui nécessaire pour la ratification du Code européen de sécurité sociale;",
+        "label_fr": "Article 12, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-12-03-163",
+        "text_en": "to endeavour to raise progressively the system of social security to a higher level;",
+        "label_en": "Article 12, Paragraph 3",
+        "text_fr": "à s'efforcer de porter progressivement le régime de sécurité sociale à un niveau plus haut;",
+        "label_fr": "Article 12, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-12-04-163",
+        "text_en": "to take steps, by the conclusion of appropriate bilateral and multilateral agreements or by other means, and subject to the conditions laid down in such agreements, in order to ensure:\na equal treatment with their own nationals of the nationals of other Parties in respect of social security rights, including the retention of benefits arising out of social security legislation, whatever movements the persons protected may undertake between the territories of the Parties;\nb the granting, maintenance and resumption of social security rights by such means as the accumulation of insurance or employment periods completed under the legislation of each of the Parties.",
+        "label_en": "Article 12, Paragraph 4",
+        "text_fr": "à prendre des mesures, par la conclusion d'accords bilatéraux ou multilatéraux appropriés ou par d'autres moyens, et sous réserve des conditions arrêtées dans ces accords, pour assurer:\na l'égalité de traitement entre les nationaux de chacune des Parties et les ressortissants des autres Parties en ce qui concerne les droits à la sécurité sociale, y compris la conservation des avantages accordés par les législations de sécurité sociale, quels que puissent être les déplacements que les personnes protégées pourraient effectuer entre les territoires des Parties;\nb l'octroi, le maintien et le rétablissement des droits à la sécurité sociale par des moyens tels que la totalisation des périodes d'assurance ou d'emploi accomplies conformément à la législation de chacune des Parties.",
+        "label_fr": "Article 12, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-13-00-163",
+        "text_en": "Article 13-The right to social and medical assistance\nWith a view to ensuring the effective exercise of the right to social and medical assistance, the Parties undertake:",
+        "label_en": "Article 13, Introduction",
+        "text_fr": "Article 13- Droit à l'assistance sociale et médicale\nEn vue d'assurer l'exercice effectif du droit à l'assistance sociale et médicale, les Parties s'engagent:",
+        "label_fr": "Article 13, Introduction",
+        "children": [
+            "P2-13-01-163", "P2-13-02-163", "P2-13-03-163", "P2-13-04-163"
+        ]
+    },
+    {
+        "id": "P2-13-01-163",
+        "text_en": "to ensure that any person who is without adequate resources and who is unable to secure such resources either by his own efforts or from other sources, in particular by benefits under a social security scheme, be granted adequate assistance, and, in case of sickness, the care necessitated by his condition;",
+        "label_en": "Article 13, Paragraph 1",
+        "text_fr": "à veiller à ce que toute personne qui ne dispose pas de ressources suffisantes et qui n'est pas en mesure de se procurer celles-ci par ses propres moyens ou de les recevoir d'une autre source, notamment par des prestations résultant d'un régime de sécurité sociale, puisse obtenir une assistance appropriée et, en cas de maladie, les soins nécessités par son état;",
+        "label_fr": "Article 13, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-13-02-163",
+        "text_en": "to ensure that persons receiving such assistance shall not, for that reason, suffer from a diminution of their political or social rights;",
+        "label_en": "Article 13, Paragraph 2",
+        "text_fr": "à veiller à ce que les personnes bénéficiant d'une telle assistance ne souffrent pas, pour cette raison, d'une diminution de leurs droits politiques ou sociaux;",
+        "label_fr": "Article 13, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-13-03-163",
+        "text_en": "to provide that everyone may receive by appropriate public or private services such advice and personal help as may be required to prevent, to remove, or to alleviate personal or family want;",
+        "label_en": "Article 13, Paragraph 3",
+        "text_fr": "à prévoir que chacun puisse obtenir, par des services compétents de caractère public ou privé, tous conseils et toute aide personnelle nécessaires pour prévenir, abolir ou alléger l'état de besoin d'ordre personnel et d'ordre familial;",
+        "label_fr": "Article 13, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-13-04-163",
+        "text_en": "to apply the provisions referred to in paragraphs 1, 2 and 3 of this article on an equal footing with their nationals to nationals of other Parties lawfully within their territories, in accordance with their obligations under the European Convention on Social and Medical Assistance, signed at Paris on 11 December 1953.",
+        "label_en": "Article 13, Paragraph 4",
+        "text_fr": "à appliquer les dispositions visées aux paragraphes 1, 2 et 3 du présent article, sur un pied d'égalité avec leurs nationaux, aux ressortissants des autres Parties se trouvant légalement sur leur territoire, conformément aux obligations qu'elles assument en vertu de la Convention européenne d'assistance sociale et médicale, signée à Paris le 11 décembre 1953.",
+        "label_fr": "Article 13, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-14-00-163",
+        "text_en": "Article 14-The right to benefit from social welfare services\nWith a view to ensuring the effective exercise of the right to benefit from social welfare services, the Parties undertake:",
+        "label_en": "Article 14, Introduction",
+        "text_fr": "Article 14- Droit au bénéfice des services sociaux\nEn vue d'assurer l'exercice effectif du droit à bénéficier des services sociaux, les Parties s'engagent:",
+        "label_fr": "Article 14, Introduction",
+        "children": [
+            "P2-14-01-163", "P2-14-02-163"
+        ]
+    },
+    {
+        "id": "P2-14-01-163",
+        "text_en": "to promote or provide services which, by using methods of social work, would contribute to the welfare and development of both individuals and groups in the community, and to their adjustment to the social environment;",
+        "label_en": "Article 14, Paragraph 1",
+        "text_fr": "à encourager ou organiser les services utilisant les méthodes propres au service social et qui contribuent au bien-être et au développement des individus et des groupes dans la communauté ainsi qu'à leur adaptation au milieu social;",
+        "label_fr": "Article 14, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-14-02-163",
+        "text_en": "to encourage the participation of individuals and voluntary or other organisations in the establishment and maintenance of such services.",
+        "label_en": "Article 14, Paragraph 2",
+        "text_fr": "à encourager la participation des individus et des organisations bénévoles ou autres à la création ou au maintien de ces services.",
+        "label_fr": "Article 14, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-15-00-163",
+        "text_en": "Article 15 The right of persons with disabilities to independence, social integration and participation in the life of the community\nWith a view to ensuring to persons with disabilities, irrespective of age and the nature and origin of their disabilities, the effective exercise of the right to independence, social integration and participation in the life of the community, the Parties undertake, in particular:",
+        "label_en": "Article 15, Introduction",
+        "text_fr": "Article 15\nDroit des personnes handicapées à l'autonomie, à l'intégration sociale et à la participation à la vie de la communauté\nEn vue de garantir aux personnes handicapées, quel que soit leur âge, la nature et l'origine de leur handicap, l'exercice effectif du droit à l'autonomie, à l'intégration sociale et à la participation à la vie de la communauté, les Parties s'engagent notamment:",
+        "label_fr": "Article 15, Introduction",
+        "children": [
+            "P2-15-01-163", "P2-15-02-163", "P2-15-03-163"
+        ]
+    },
+    {
+        "id": "P2-15-01-163",
+        "text_en": "to take the necessary measures to provide persons with disabilities with guidance, education and vocational training in the framework of general schemes wherever possible or, where this is not possible, through specialised bodies, public or private;",
+        "label_en": "Article 15, Paragraph 1",
+        "text_fr": "à prendre les措施 nécessaires pour fournir aux personnes handicapées une orientation, une éducation et une formation professionnelle dans le cadre du droit commun chaque fois que possible ou, si tel n'est pas le cas, par le biais d'institutions spécialisées publiques ou privées;",
+        "label_fr": "Article 15, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-15-02-163",
+        "text_en": "to promote their access to employment through all measures tending to encourage employers to hire and keep in employment persons with disabilities in the ordinary working environment and to adjust the working conditions to the needs of the disabled or, where this is not possible by reason of the disability, by arranging for or creating sheltered employment according to the level of disability. In certain cases, such measures may require recourse to specialised placement and support services;",
+        "label_en": "Article 15, Paragraph 2",
+        "text_fr": "à favoriser leur accès à l'emploi par toute mesure susceptible d'encourager les employeurs à embaucher et à maintenir en activité des personnes handicapées dans le milieu ordinaire de travail et à adapter les conditions de travail aux besoins de ces personnes ou, en cas d'impossibilité en raison du handicap, par l'aménagement ou la création d'emplois protégés en fonction du degré d'incapacité. Ces mesures peuvent justifier, le cas échéant, le recours à des services spécialisés de placement et d'accompagnement;",
+        "label_fr": "Article 15, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-15-03-163",
+        "text_en": "to promote their full social integration and participation in the life of the community in particular through measures, including technical aids, aiming to overcome barriers to communication and mobility and enabling access to transport, housing, cultural activities and leisure.",
+        "label_en": "Article 15, Paragraph 3",
+        "text_fr": "à favoriser leur pleine intégration et participation à la vie sociale, notamment par des mesures, y compris des aides techniques, visant à surmonter des obstacles à la communication et à la mobilité et à leur permettre d'accéder aux transports, au logement, aux activités culturelles et aux loisirs.",
+        "label_fr": "Article 15, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-16-00-163",
+        "text_en": "Article 16-The right of the family to social, legal and economic protection\nWith a view to ensuring the necessary conditions for the full development of the family, which is a fundamental unit of society, the Parties undertake to promote the economic, legal and social protection of family life by such means as social and family benefits, fiscal arrangements, provision of family housing, benefits for the newly married and other appropriate means.",
+        "label_en": "Article 16",
+        "text_fr": "Article 16-Droit de la famille à une protection sociale, juridique et économique\nEn vue de réaliser les conditions de vie indispensables au plein épanouissement de la famille, cellule fondamentale de la société, les Parties s'engagent à promouvoir la protection économique, juridique et sociale de la vie de famille, notamment par le moyen de prestations sociales et familiales, de dispositions fiscales, d'encouragement à la construction de logements adaptés aux besoins des familles, d'aide aux jeunes foyers, ou de toutes autres mesures appropriées.",
+        "label_fr": "Article 16",
+        "children": []
+    },
+    {
+        "id": "P2-17-00-163",
+        "text_en": "Article 17 The right of children and young persons to social, legal and economic protection\nWith a view to ensuring the effective exercise of the right of children and young persons to grow up in an environment which encourages the full development of their personality and of their physical and mental capacities, the Parties undertake, either directly or in co-operation with public and private organisations, to take all appropriate and necessary measures designed:",
+        "label_en": "Article 17, Introduction",
+        "text_fr": "Article 17 Droit des enfants et des adolescents à une protection sociale, juridique et économique\nEn vue d'assurer aux enfants et aux adolescents l'exercice effectif du droit de grandir dans un milieu favorable à l'épanouissement de leur personnalité et au développement de leurs aptitudes physiques et mentales, les Parties s'engagent à prendre, soit directement, soit en coopération avec les organisations publiques ou privées, toutes les mesures nécessaires et appropriées tendant:",
+        "label_fr": "Article 17, Introduction",
+        "children": [
+            "P2-17-01-163", "P2-17-02-163"
+        ]
+    },
+    {
+        "id": "P2-17-01-163",
+        "text_en": "a to ensure that children and young persons, taking account of the rights and duties of their parents, have the care, the assistance, the education and the training they need, in particular by providing for the establishment or maintenance of institutions and services sufficient and adequate for this purpose;\nb to protect children and young persons against negligence, violence or exploitation;\nc to provide protection and special aid from the state for children and young persons temporarily or definitively deprived of their family's support;",
+        "label_en": "Article 17, Paragraph 1",
+        "text_fr": "a à assurer aux enfants et aux adolescents, compte tenu des droits et des devoirs des parents, les soins, l'assistance, l'éducation et la formation dont ils ont besoin, notamment en prévoyant la création ou le maintien d'institutions ou de services adéquats et suffisants à cette fin;\nb à protéger les enfants et les adolescents contre la négligence, la violence ou l'exploitation;\nc à assurer une protection et une aide spéciale de l'Etat vis-à-vis de l'enfant ou de l'adolescent temporairement ou définitivement privé de son soutien familial;",
+        "label_fr": "Article 17, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-17-02-163",
+        "text_en": "to provide to children and young persons a free primary and secondary education as well as to encourage regular attendance at schools.",
+        "label_en": "Article 17, Paragraph 2",
+        "text_fr": "à assurer aux enfants et aux adolescents un enseignement primaire et secondaire gratuit, ainsi qu'à favoriser la régularité de la fréquentation scolaire.",
+        "label_fr": "Article 17, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-18-00-163",
+        "text_en": "Article 18-The right to engage in a gainful occupation in the territory of other Parties\nWith a view to ensuring the effective exercise of the right to engage in a gainful occupation in the territory of any other Party, the Parties undertake:",
+        "label_en": "Article 18, Introduction",
+        "text_fr": "Article 18- Droit à l'exercice d'une activité lucrative sur le territoire des autres Parties\nEn vue d'assurer l'exercice effectif du droit à l'exercice d'une activité lucrative sur le territoire de toute autre Partie, les Parties s'engagent:",
+        "label_fr": "Article 18, Introduction",
+        "children": [
+            "P2-18-01-163", "P2-18-02-163", "P2-18-03-163", "P2-18-04-163"
+        ]
+    },
+    {
+        "id": "P2-18-01-163",
+        "text_en": "to apply existing regulations in a spirit of liberality;",
+        "label_en": "Article 18, Paragraph 1",
+        "text_fr": "à appliquer les règlements existants dans un esprit libéral;",
+        "label_fr": "Article 18, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-18-02-163",
+        "text_en": "to simplify existing formalities and to reduce or abolish chancery dues and other charges payable by foreign workers or their employers;",
+        "label_en": "Article 18, Paragraph 2",
+        "text_fr": "à simplifier les formalités en vigueur et à réduire ou supprimer les droits de chancellerie et autres taxes payables par les travailleurs étrangers ou par leurs employeurs;",
+        "label_fr": "Article 18, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-18-03-163",
+        "text_en": "to liberalise, individually or collectively, regulations governing the employment of foreign workers;",
+        "label_en": "Article 18, Paragraph 3",
+        "text_fr": "à assouplir, individuellement ou collectivement, les réglementations régissant l'emploi des travailleurs étrangers;",
+        "label_fr": "Article 18, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-18-04-163",
+        "text_en": "and recognise:\nthe right of their nationals to leave the country to engage in a gainful occupation in the territories of the other Parties.",
+        "label_en": "Article 18, Paragraph 4",
+        "text_fr": "et reconnaissent:\nle droit de sortie de leurs nationaux désireux d'exercer une activité lucrative sur le territoire des autres Parties.",
+        "label_fr": "Article 18, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-19-00-163",
+        "text_en": "Article 19-The right of migrant workers and their families to protection and assistance\nWith a view to ensuring the effective exercise of the right of migrant workers and their families to protection and assistance in the territory of any other Party, the Parties undertake:",
+        "label_en": "Article 19, Introduction",
+        "text_fr": "Article 19 Droit des travailleurs migrants et de leurs familles à la protection et à l'assistance\nEn vue d'assurer l'exercice effectif du droit des travailleurs migrants et de leurs familles à la protection et à l'assistance sur le territoire de toute autre Partie, les Parties s'engagent:",
+        "label_fr": "Article 19, Introduction",
+        "children": [
+            "P2-19-01-163", "P2-19-02-163", "P2-19-03-163", "P2-19-04-163",
+            "P2-19-05-163", "P2-19-06-163", "P2-19-07-163", "P2-19-08-163",
+            "P2-19-09-163", "P2-19-10-163", "P2-19-11-163", "P2-19-12-163"
+        ]
+    },
+    {
+        "id": "P2-19-01-163",
+        "text_en": "to maintain or to satisfy themselves that there are maintained adequate and free services to assist such workers, particularly in obtaining accurate information, and to take all appropriate steps, so far as national laws and regulations permit, against misleading propaganda relating to emigration and immigration;",
+        "label_en": "Article 19, Paragraph 1",
+        "text_fr": "à maintenir ou à s'assurer qu'il existe des services gratuits appropriés chargés d'aider ces travailleurs et, notamment, de leur fournir des informations exactes, et à prendre toutes mesures utiles, pour autant que la législation et la réglementation nationales le permettent, contre toute propagande trompeuse concernant l'émigration et l'immigration;",
+        "label_fr": "Article 19, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-19-02-163",
+        "text_en": "to adopt appropriate measures within their own jurisdiction to facilitate the departure, journey and reception of such workers and their families, and to provide, within their own jurisdiction, appropriate services for health, medical attention and good hygienic conditions during the journey;",
+        "label_en": "Article 19, Paragraph 2",
+        "text_fr": "à adopter, dans les limites de leur juridiction, des mesures appropriées pour faciliter le départ, le voyage et l'accueil de ces travailleurs et de leurs familles, et à leur assurer, dans les limites de leur juridiction, pendant le voyage, les services sanitaires et médicaux nécessaires, ainsi que de bonnes conditions d'hygiène;",
+        "label_fr": "Article 19, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-19-03-163",
+        "text_en": "to promote co-operation, as appropriate, between social services, public and private, in emigration and immigration countries;",
+        "label_en": "Article 19, Paragraph 3",
+        "text_fr": "à promouvoir la collaboration, suivant les cas, entre les services sociaux, publics ou privés, des pays d'émigration et d'immigration;",
+        "label_fr": "Article 19, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-19-04-163",
+        "text_en": "to secure for such workers lawfully within their territories, insofar as such matters are regulated by law or regulations or are subject to the control of administrative authorities, treatment not less favourable than that of their own nationals in respect of the following matters:\na remuneration and other employment and working conditions;\nb membership of trade unions and enjoyment of the benefits of collective bargaining;\nc accommodation;",
+        "label_en": "Article 19, Paragraph 4",
+        "text_fr": "à garantir à ces travailleurs se trouvant légalement sur leur territoire, pour autant que ces matières sont régies par la législation ou la réglementation ou sont soumises au contrôle des autorités administratives, un traitement non moins favorable qu'à leurs nationaux en ce qui concerne les matières suivantes:\na la rémunération et les autres conditions d'emploi et de travail;\nb l'affiliation aux organisations syndicales et la jouissance des avantages offerts par les conventions collectives;\nc le logement;",
+        "label_fr": "Article 19, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P2-19-05-163",
+        "text_en": "to secure for such workers lawfully within their territories treatment not less favourable than that of their own nationals with regard to employment taxes, dues or contributions payable in respect of employed persons;",
+        "label_en": "Article 19, Paragraph 5",
+        "text_fr": "à assurer à ces travailleurs se trouvant légalement sur leur territoire un traitement non moins favorable qu'à leurs propres nationaux en ce qui concerne les impôts, taxes et contributions afférents au travail, perçus au titre du travailleur;",
+        "label_fr": "Article 19, Paragraphe 5",
+        "children": []
+    },
+    {
+        "id": "P2-19-06-163",
+        "text_en": "to facilitate as far as possible the reunion of the family of a foreign worker permitted to establish himself in the territory;",
+        "label_en": "Article 19, Paragraph 6",
+        "text_fr": "à faciliter autant que possible le regroupement de la famille du travailleur migrant autorisé à s'établir lui-même sur le territoire;",
+        "label_fr": "Article 19, Paragraphe 6",
+        "children": []
+    },
+    {
+        "id": "P2-19-07-163",
+        "text_en": "to secure for such workers lawfully within their territories treatment not less favourable than that of their own nationals in respect of legal proceedings relating to matters referred to in this article;",
+        "label_en": "Article 19, Paragraph 7",
+        "text_fr": "à assurer à ces travailleurs se trouvant légalement sur leur territoire un traitement non moins favorable qu'à leurs nationaux pour les actions en justice concernant les questions mentionnées dans le présent article;",
+        "label_fr": "Article 19, Paragraphe 7",
+        "children": []
+    },
+    {
+        "id": "P2-19-08-163",
+        "text_en": "to secure that such workers lawfully residing within their territories are not expelled unless they endanger national security or offend against public interest or morality;",
+        "label_en": "Article 19, Paragraph 8",
+        "text_fr": "à garantir à ces travailleurs résidant régulièrement sur leur territoire qu'ils ne pourront être expulsés que s'ils menacent la sécurité de l'Etat ou contreviennent à l'ordre public ou aux bonnes mœurs;",
+        "label_fr": "Article 19, Paragraphe 8",
+        "children": []
+    },
+    {
+        "id": "P2-19-09-163",
+        "text_en": "to permit, within legal limits, the transfer of such parts of the earnings and savings of such workers as they may desire;",
+        "label_en": "Article 19, Paragraph 9",
+        "text_fr": "à permettre, dans le cadre des limites fixées par la législation, le transfert de toute partie des gains et des économies des travailleurs migrants que ceux-ci désirent transférer;",
+        "label_fr": "Article 19, Paragraphe 9",
+        "children": []
+    },
+    {
+        "id": "P2-19-10-163",
+        "text_en": "to extend the protection and assistance provided for in this article to self-employed migrants insofar as such measures apply;",
+        "label_en": "Article 19, Paragraph 10",
+        "text_fr": "à étendre la protection et l'assistance prévues par le présent article aux travailleurs migrants travaillant pour leur propre compte, pour autant que les mesures en question sont applicables à cette catégorie;",
+        "label_fr": "Article 19, Paragraphe 10",
+        "children": []
+    },
+    {
+        "id": "P2-19-11-163",
+        "text_en": "to promote and facilitate the teaching of the national language of the receiving state or, if there are several, one of these languages, to migrant workers and members of their families;",
+        "label_en": "Article 19, Paragraph 11",
+        "text_fr": "à favoriser et à faciliter l'enseignement de la langue nationale de l'Etat d'accueil ou, s'il y en a plusieurs, de l'une d'entre elles aux travailleurs migrants et aux membres de leurs familles;",
+        "label_fr": "Article 19, Paragraphe 11",
+        "children": []
+    },
+    {
+        "id": "P2-19-12-163",
+        "text_en": "to promote and facilitate, as far as practicable, the teaching of the migrant worker's mother tongue to the children of the migrant worker.",
+        "label_en": "Article 19, Paragraph 12",
+        "text_fr": "à favoriser et à faciliter, dans la mesure du possible, l'enseignement de la langue maternelle du travailleur migrant à ses enfants.",
+        "label_fr": "Article 19, Paragraphe 12",
+        "children": []
+    },
+    {
+        "id": "P2-20-00-163",
+        "text_en": "Article 20 The right to equal opportunities and equal treatment in matters of employment and occupation without discrimination on the grounds of sex\nWith a view to ensuring the effective exercise of the right to equal opportunities and equal treatment in matters of employment and occupation without discrimination on the grounds of sex, the Parties undertake to recognise that right and to take appropriate measures to ensure or promote its application in the following fields:\na access to employment, protection against dismissal and occupational reintegration;\nb vocational guidance, training, retraining and rehabilitation;\nc terms of employment and working conditions, including remuneration;\nd career development, including promotion.",
+        "label_en": "Article 20",
+        "text_fr": "Article 20 - Droit à l'égalité de chances et de traitement en matière d'emploi et de profession, sans discrimination fondée sur le sexe\nEn vue d'assurer l'exercice effectif du droit à l'égalité de chances et de traitement en matière d'emploi et de profession sans discrimination fondée sur le sexe, les Parties s'engagent à reconnaître ce droit et à prendre les mesures appropriées pour en assurer ou en promouvoir l'application dans les domaines suivants:\na accès à l'emploi, protection contre le licenciement et réinsertion professionnelle;\nb orientation et formation professionnelles, recyclage, réadaptation professionnelle;\nc conditions d'emploi et de travail, y compris la rémunération;\nd déroulement de la carrière, y compris la promotion.",
+        "label_fr": "Article 20",
+        "children": []
+    },
+    {
+        "id": "P2-21-00-163",
+        "text_en": "Article 21 - The right to information and consultation\nWith a view to ensuring the effective exercise of the right of workers to be informed and consulted within the undertaking, the Parties undertake to adopt or encourage measures enabling workers or their representatives, in accordance with national legislation and practice:\na to be informed regularly or at the appropriate time and in a comprehensible way about the economic and financial situation of the undertaking employing them, on the understanding that the disclosure of certain information which could be prejudicial to the undertaking may be refused or subject to confidentiality; and\nb to be consulted in good time on proposed decisions which could substantially affect the interests of workers, particularly on those decisions which could have an important impact on the employment situation in the undertaking.",
+        "label_en": "Article 21",
+        "text_fr": "Article 21 Droit à l'information et à la consultation\nEn vue d'assurer l'exercice effectif du droit des travailleurs à l'information et à la consultation au sein de l'entreprise, les Parties s'engagent à prendre ou à promouvoir des mesures permettant aux travailleurs ou à leurs représentants, conformément à la législation et la pratique nationales:\na d'être informés régulièrement ou en temps opportun et d'une manière compréhensible de la situation économique et financière de l'entreprise qui les emploie, étant entendu que la divulgation de certaines informations pouvant porter préjudice à l'entreprise pourra être refusée ou qu'il pourra être exigé que celles-ci soient tenues confidentielles; et\nb d'être consultés en temps utile sur les décisions envisagées qui sont susceptibles d'affecter substantiellement les intérêts des travailleurs et notamment sur celles qui auraient des conséquences importantes sur la situation de l'emploi dans l'entreprise.",
+        "label_fr": "Article 21",
+        "children": []
+    },
+    {
+        "id": "P2-22-00-163",
+        "text_en": "Article 22 The right to take part in the determination and improvement of the working conditions and working environment\nWith a view to ensuring the effective exercise of the right of workers to take part in the determination and improvement of the working conditions and working environment in the undertaking, the Parties undertake to adopt or encourage measures enabling workers or their representatives, in accordance with national legislation and practice, to contribute:\na to the determination and the improvement of the working conditions, work organisation and working environment;\nb to the protection of health and safety within the undertaking;\nc to the organisation of social and socio-cultural services and facilities within the undertaking;\nd to the supervision of the observance of regulations on these matters.",
+        "label_en": "Article 22",
+        "text_fr": "Article 22 - Droit de prendre part à la détermination et à l'amélioration des conditions de travail et du milieu du travail\nEn vue d'assurer l'exercice effectif du droit des travailleurs de prendre part à la détermination et à l'amélioration des conditions de travail et du milieu du travail dans l'entreprise, les Parties s'engagent à prendre ou à promouvoir des mesures permettant aux travailleurs ou à leurs représentants, conformément à la législation et à la pratique nationales, de contribuer:\na à la détermination et à l'amélioration des conditions de travail, de l'organisation du travail et du milieu du travail;\nb à la protection de la santé et de la sécurité au sein de l'entreprise;\nc à l'organisation de services et facilités sociaux et socio-culturels de l'entreprise;\nd au contrôle du respect de la réglementation en ces matières.",
+        "label_fr": "Article 22",
+        "children": []
+    },
+    {
+        "id": "P2-23-00-163",
+        "text_en": "Article 23 - The right of elderly persons to social protection\nWith a view to ensuring the effective exercise of the right of elderly persons to social protection, the Parties undertake to adopt or encourage, either directly or in co-operation with public or private organisations, appropriate measures designed in particular:\nto enable elderly persons to remain full members of society for as long as possible, by means of:\na adequate resources enabling them to lead a decent life and play an active part in public, social and cultural life;\nb provision of information about services and facilities available for elderly persons and their opportunities to make use of them;\nto enable elderly persons to choose their life-style freely and to lead independent lives in their familiar surroundings for as long as they wish and are able, by means of:\na provision of housing suited to their needs and their state of health or of adequate support for adapting their housing;\nb the health care and the services necessitated by their state;\nto guarantee elderly persons living in institutions appropriate support, while respecting their privacy, and participation in decisions concerning living conditions in the institution.",
+        "label_en": "Article 23",
+        "text_fr": "Article 23 - Droit des personnes âgées à une protection sociale\nEn vue d'assurer l'exercice effectif du droit des personnes âgées à une protection sociale, les Parties s'engagent à prendre ou à promouvoir, soit directement soit en coopération avec les organisations publiques ou privées, des mesures appropriées tendant notamment:\nà permettre aux personnes âgées de demeurer le plus longtemps possible des membres à part entière de la société, moyennant:\na des ressources suffisantes pour leur permettre de mener une existence décente et de participer activement à la vie publique, sociale et culturelle;\nb la diffusion des informations concernant les services et les facilités existant en faveur des personnes âgées et les possibilités pour celles-ci d'y recourir;\nà permettre aux personnes âgées de choisir librement leur mode de vie et de mener une existence indépendante dans leur environnement habituel aussi longtemps qu'elles le souhaitent et que cela est possible, moyennant:\na la mise à disposition de logements appropriés à leurs besoins et à leur état de santé ou d'aides adéquates en vue de l'aménagement du logement;\nb les soins de santé et les services que nécessiterait leur état;\nà garantir aux personnes âgées vivant en institution l'assistance appropriée dans le respect de la vie privée, et la participation à la détermination des conditions de vie dans l'institution.",
+        "label_fr": "Article 23",
+        "children": []
+    },
+    {
+        "id": "P2-24-00-163",
+        "text_en": "Article 24 - The right to protection in cases of termination of employment\nWith a view to ensuring the effective exercise of the right of workers to protection in cases of termination of employment, the Parties undertake to recognise:\na the right of all workers not to have their employment terminated without valid reasons for such termination connected with their capacity or conduct or based on the operational requirements of the undertaking, establishment or service;\nb the right of workers whose employment is terminated without a valid reason to adequate compensation or other appropriate relief.\nTo this end the Parties undertake to ensure that a worker who considers that his employment has been terminated without a valid reason shall have the right to appeal to an impartial body.",
+        "label_en": "Article 24",
+        "text_fr": "Article 24 - Droit à la protection en cas de licenciement\nEn vue d'assurer l'exercice effectif du droit à la protection en cas de licenciement, les Parties s'engagent à reconnaître:\na le droit des travailleurs à ne pas être licenciés sans motif valable lié à leur aptitude ou conduite, ou fondé sur les nécessités de fonctionnement de l'entreprise, de l'établissement ou du service;\nb le droit des travailleurs licenciés sans motif valable à une indemnité adéquate ou à une autre réparation appropriée.\nA cette fin les Parties s'engagent à assurer qu'un travailleur qui estime avoir fait l'objet d'une mesure de licenciement sans motif valable ait un droit de recours contre cette mesure devant un organe impartial.",
+        "label_fr": "Article 24",
+        "children": []
+    },
+    {
+        "id": "P2-25-00-163",
+        "text_en": "Article 25- The right of workers to the protection of their claims in the event of the insolvency of their employer\nWith a view to ensuring the effective exercise of the right of workers to the protection of their claims in the event of the insolvency of their employer, the Parties undertake to provide that workers' claims arising from contracts of employment or employment relationships be guaranteed by a guarantee institution or by any other effective form of protection.",
+        "label_en": "Article 25",
+        "text_fr": "Article 25 Droit des travailleurs à la protection de leurs créances en cas d'insolvabilité de leur employeur\nEn vue d'assurer l'exercice effectif du droit des travailleurs à la protection de leurs créances en cas d'insolvabilité de leur employeur, les Parties s'engagent à prévoir que les créances des travailleurs résultant de contrats de travail ou de relations d'emploi soient garanties par une institution de garantie ou par toute autre forme effective de protection.",
+        "label_fr": "Article 25",
+        "children": []
+    },
+    {
+        "id": "P2-26-00-163",
+        "text_en": "Article 26 - The right to dignity at work\nWith a view to ensuring the effective exercise of the right of all workers to protection of their dignity at work, the Parties undertake, in consultation with employers' and workers' organisations:",
+        "label_en": "Article 26, Introduction",
+        "text_fr": "Article 26 - Droit à la dignité au travail\nEn vue d'assurer l'exercice effectif du droit de tous les travailleurs à la protection de leur dignité au travail, les Parties s'engagent, en consultation avec les organisations d'employeurs et de travailleurs:",
+        "label_fr": "Article 26, Introduction",
+        "children": [
+            "P2-26-01-163", "P2-26-02-163"
+        ]
+    },
+    {
+        "id": "P2-26-01-163",
+        "text_en": "to promote awareness, information and prevention of sexual harassment in the workplace or in relation to work and to take all appropriate measures to protect workers from such conduct;",
+        "label_en": "Article 26, Paragraph 1",
+        "text_fr": "à promouvoir la sensibilisation, l'information et la prévention en matière de harcèlement sexuel sur le lieu de travail ou en relation avec le travail, et à prendre toute mesure appropriée pour protéger les travailleurs contre de tels comportements;",
+        "label_fr": "Article 26, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-26-02-163",
+        "text_en": "to promote awareness, information and prevention of recurrent reprehensible or distinctly negative and offensive actions directed against individual workers in the workplace or in relation to work and to take all appropriate measures to protect workers from such conduct.",
+        "label_en": "Article 26, Paragraph 2",
+        "text_fr": "à promouvoir la sensibilisation, l'information et la prévention en matière d'actes condamnables ou explicitement hostiles et offensifs dirigés de façon répétée contre tout salarié sur le lieu de travail ou en relation avec le travail, et à prendre toute mesure appropriée pour protéger les travailleurs contre de tels comportements.",
+        "label_fr": "Article 26, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-27-00-163",
+        "text_en": "Article 27 The right of workers with family responsibilities to equal opportunities and equal treatment\nWith a view to ensuring the exercise of the right to equality of opportunity and treatment for men and women workers with family responsibilities and between such workers and other workers, the Parties undertake:",
+        "label_en": "Article 27, Introduction",
+        "text_fr": "Article 27 Droit des travailleurs ayant des responsabilités familiales à l'égalité des chances et de traitement\nEn vue d'assurer l'exercice effectif du droit à l'égalité des chances et de traitement entre les travailleurs des deux sexes ayant des responsabilités familiales et entre ces travailleurs et les autres travailleurs, les Parties s'engagent:",
+        "label_fr": "Article 27, Introduction",
+        "children": [
+            "P2-27-01-163", "P2-27-02-163", "P2-27-03-163"
+        ]
+    },
+    {
+        "id": "P2-27-01-163",
+        "text_en": "to take appropriate measures:\na to enable workers with family responsibilities to enter and remain in employment, as well as to reenter employment after an absence due to those responsibilities, including measures in the field of vocational guidance and training;\nb to take account of their needs in terms of conditions of employment and social security;\nc to develop or promote services, public or private, in particular child daycare services and other childcare arrangements;",
+        "label_en": "Article 27, Paragraph 1",
+        "text_fr": "à prendre des mesures appropriées:\na pour permettre aux travailleurs ayant des responsabilités familiales d'entrer et de rester dans la vie active ou d'y retourner après une absence due à ces responsabilités, y compris des mesures dans le domaine de l'orientation et la formation professionnelles;\nb pour tenir compte de leurs besoins en ce qui concerne les conditions d'emploi et la sécurité sociale;\nc pour développer ou promouvoir des services, publics ou privés, en particulier les services de garde de jour d'enfants et d'autres modes de garde;",
+        "label_fr": "Article 27, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-27-02-163",
+        "text_en": "to provide a possibility for either parent to obtain, during a period after maternity leave, parental leave to take care of a child, the duration and conditions of which should be determined by national legislation, collective agreements or practice;",
+        "label_en": "Article 27, Paragraph 2",
+        "text_fr": "à prévoir la possibilité pour chaque parent, au cours d'une période après le congé de maternité, d'obtenir un congé parental pour s'occuper d'un enfant, dont la durée et les conditions seront fixées par la législation nationale, les conventions collectives ou la pratique;",
+        "label_fr": "Article 27, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-27-03-163",
+        "text_en": "to ensure that family responsibilities shall not, as such, constitute a valid reason for termination of employment.",
+        "label_en": "Article 27, Paragraph 3",
+        "text_fr": "à assurer que les responsabilités familiales ne puissent, en tant que telles, constituer un motif valable de licenciement.",
+        "label_fr": "Article 27, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P2-28-00-163",
+        "text_en": "Article 28 The right of workers' representatives to protection in the undertaking and facilities to be accorded to them\nWith a view to ensuring the effective exercise of the right of workers' representatives to carry out their functions, the Parties undertake to ensure that in the undertaking:\na they enjoy effective protection against acts prejudicial to them, including dismissal, based on their status or activities as workers' representatives within the undertaking;\nb they are afforded such facilities as may be appropriate in order to enable them to carry out their functions promptly and efficiently, account being taken of the industrial relations system of the country and the needs, size and capabilities of the undertaking concerned.",
+        "label_en": "Article 28",
+        "text_fr": "Article 28 - Droit des représentants des travailleurs à la protection dans l'entreprise et facilités à leur accorder\nAfin d'assurer l'exercice effectif du droit des représentants des travailleurs de remplir leurs fonctions de représentants, les Parties s'engagent à assurer que dans l'entreprise:\na ils bénéficient d'une protection effective contre les actes qui pourraient leur porter préjudice, y compris le licenciement, et qui seraient motivés par leur qualité ou leurs activités de représentants des travailleurs dans l'entreprise;\nb ils aient les facilités appropriées afin de leur permettre de remplir rapidement et efficacement leurs fonctions en tenant compte du système de relations professionnelles prévalant dans le pays ainsi que des besoins, de l'importance et des possibilités de l'entreprise intéressée.",
+        "label_fr": "Article 28",
+        "children": []
+    },
+    {
+        "id": "P2-29-00-163",
+        "text_en": "Article 29 The right to information and consultation in collective redundancy procedures\nWith a view to ensuring the effective exercise of the right of workers to be informed and consulted in situations of collective redundancies, the Parties undertake to ensure that employers shall inform and consult workers' representatives, in good time prior to such collective redundancies, on ways and means of avoiding collective redundancies or limiting their occurrence and mitigating their consequences, for example by recourse to accompanying social measures aimed, in particular, at aid for the redeployment or retraining of the workers concerned.",
+        "label_en": "Article 29",
+        "text_fr": "Article 29 Droit à l'information et à la consultation dans les procédures de licenciements collectifs\nAfin d'assurer l'exercice effectif du droit des travailleurs à être informés et consultés en cas de licenciements collectifs, les Parties s'engagent à assurer que les employeurs informent et consultent les représentants des travailleurs en temps utile, avant ces licenciements collectifs, sur les possibilités d'éviter les licenciements collectifs ou de limiter leur nombre et d'atténuer leurs conséquences, par exemple par le recours à des mesures sociales d'accompagnement visant no- tamment l'aide au reclassement ou à la réinsertion des travailleurs concernés.",
+        "label_fr": "Article 29",
+        "children": []
+    },
+    {
+        "id": "P2-30-00-163",
+        "text_en": "Article 30 - The right to protection against poverty and social exclusion\nWith a view to ensuring the effective exercise of the right to protection against poverty and social exclusion, the Parties undertake:\na to take measures within the framework of an overall and co-ordinated approach to promote the effective access of persons who live or risk living in a situation of social exclusion or poverty, as well as their families, to, in particular, employment, housing, training, education, culture and social and medical assistance;\nb to review these measures with a view to their adaptation if necessary.",
+        "label_en": "Article 30",
+        "text_fr": "Article 30 - Droit à la protection contre la pauvreté et l'exclusion sociale\nEn vue d'assurer l'exercice effectif du droit à la protection contre la pauvreté et l'exclusion sociale, les Parties s'engagent:\na à prendre des mesures dans le cadre d'une approche globale et coordonnée pour promouvoir l'accès effectif notamment à l'emploi, au logement, à la formation, à l'enseignement, à la culture, à l'assistance sociale et médicale des personnes se trouvant ou risquant de se trouver en situation d'exclusion sociale ou de pauvreté, et de leur famille;\nb à réexaminer ces mesures en vue de leur adaptation si nécessaire.",
+        "label_fr": "Article 30",
+        "children": []
+    },
+    {
+        "id": "P2-31-00-163",
+        "text_en": "Article 31 - The right to housing\nWith a view to ensuring the effective exercise of the right to housing, the Parties undertake to take measures designed:",
+        "label_en": "Article 31, Introduction",
+        "text_fr": "Article 31 - Droit au logement\nEn vue d'assurer l'exercice effectif du droit au logement, les Parties s'engagent à prendre des mesures destinées:",
+        "label_fr": "Article 31, Introduction",
+        "children": [
+            "P2-31-01-163", "P2-31-02-163", "P2-31-03-163"
+        ]
+    },
+    {
+        "id": "P2-31-01-163",
+        "text_en": "to promote access to housing of an adequate standard;",
+        "label_en": "Article 31, Paragraph 1",
+        "text_fr": "à favoriser l'accès au logement d'un niveau suffisant;",
+        "label_fr": "Article 31, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P2-31-02-163",
+        "text_en": "to prevent and reduce homelessness with a view to its gradual elimination;",
+        "label_en": "Article 31, Paragraph 2",
+        "text_fr": "à prévenir et à réduire l'état de sans-abri en vue de son élimination progressive;",
+        "label_fr": "Article 31, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P2-31-03-163",
+        "text_en": "to make the price of housing accessible to those without adequate resources.",
+        "label_en": "Article 31, Paragraph 3",
+        "text_fr": "à rendre le coût du logement accessible aux personnes qui ne disposent pas de ressources suffisantes.",
+        "label_fr": "Article 31, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P3-00-163",
+        "text_en": "Part III",
+        "label_en": "Part III",
+        "text_fr": "Partie III",
+        "label_fr": "Partie III",
+        "children": [
+            "P3-A-00-163", "P3-B-00-163"
+        ]
+    },
+    {
+        "id": "P3-A-00-163",
+        "text_en": "Article A - Undertakings\nSubject to the provisions of Article B below, each of the Parties undertakes:",
+        "label_en": "Article A, Introduction",
+        "text_fr": "Article A - Engagements\nSous réserve des dispositions de l'article B ci-dessous, chacune des Parties s'engage:",
+        "label_fr": "Article A, Introduction",
+        "children": [
+            "P3-A-01-163", "P3-A-02-163", "P3-A-03-163", "P3-A-04-163"
+        ]
+    },
+    {
+        "id": "P3-A-01-163",
+        "text_en": "a to consider Part I of this Charter as a declaration of the aims which it will pursue by all appropriate means, as stated in the introductory paragraph of that part;\nb to consider itself bound by at least six of the following nine articles of Part II of this Charter: Articles 1, 5, 6, 7, 12, 13, 16, 19 and 20;\nc to consider itself bound by an additional number of articles or numbered paragraphs of Part II of the Charter which it may select, provided that the total number of articles or numbered paragraphs by which it is bound is not less than sixteen articles or sixty-three numbered paragraphs.",
+        "label_en": "Article A, Paragraph 1",
+        "text_fr": "a à considérer la partie I de la présente Charte comme une déclaration déterminant les objectifs dont elle poursuivra par tous les moyens utiles la réalisation, conformément aux dispositions du paragraphe introductif de ladite partie;\nb à se considérer comme liée par six au moins des neuf articles suivants de la partie II de la Charte: articles 1, 5, 6, 7, 12, 13, 16, 19 et 20;\nc à se considérer comme liée par un nombre supplémentaire d'articles ou de paragraphes numérotés de la partie II de la Charte, qu'elle choisira, pourvu que le nombre total des articles et des paragraphes numérotés qui la lient ne soit pas inférieur à seize articles ou à soixante-trois paragraphes numérotés.",
+        "label_fr": "Article A, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P3-A-02-163",
+        "text_en": "The articles or paragraphs selected in accordance with sub-paragraphs b and c of paragraph 1 of this article shall be notified to the Secretary General of the Council of Europe at the time when the instrument of ratification, acceptance or approval is deposited.",
+        "label_en": "Article A, Paragraph 2",
+        "text_fr": "Les articles ou paragraphes choisis conformément aux dispositions des alinéas b et c du paragraphe 1 du présent article seront notifiés au Secrétaire Général du Conseil de l'Europe lors du dépôt de l'instrument de ratification, d'acceptation ou d'approbation.",
+        "label_fr": "Article A, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P3-A-03-163",
+        "text_en": "Any Party may, at a later date, declare by notification addressed to the Secretary General that it considers itself bound by any articles or any numbered paragraphs of Part II of the Charter which it has not already accepted under the terms of paragraph 1 of this article. Such undertakings subsequently given shall be deemed to be an integral part of the ratification, acceptance or approval and shall have the same effect as from the first day of the month following the expiration of a period of one month after the date of the notification.",
+        "label_en": "Article A, Paragraph 3",
+        "text_fr": "Chacune des Parties pourra, à tout moment ultérieur, déclarer par notification adressée au Secrétaire Général qu'elle se considère comme liée par tout autre article ou paragraphe numéroté figurant dans la partie II de la Charte et qu'elle n'avait pas encore accepté conformément aux dispositions du paragraphe 1 du présent article. Ces engagements ultérieurs seront réputés partie intégrante de la ratification, de l'acceptation ou de l'approbation et porteront les mêmes effets dès le premier jour du mois suivant l'expiration d'une période d'un mois après la date de la notification.",
+        "label_fr": "Article A, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P3-A-04-163",
+        "text_en": "Each Party shall maintain a system of labour inspection appropriate to national conditions.",
+        "label_en": "Article A, Paragraph 4",
+        "text_fr": "Chaque Partie disposera d'un système d'inspection du travail approprié à ses conditions nationales.",
+        "label_fr": "Article A, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P3-B-00-163",
+        "text_en": "Article B - Links with the European Social Charter and the 1988 Additional Protocol",
+        "label_en": "Article B, Introduction",
+        "text_fr": "Article B - Liens avec la Charte sociale européenne et le Protocole additionnel de 1988",
+        "label_fr": "Article B, Introduction",
+        "children": [
+            "P3-B-01-163", "P3-B-02-163"
+        ]
+    },
+    {
+        "id": "P3-B-01-163",
+        "text_en": "No Contracting Party to the European Social Charter or Party to the Additional Protocol of 5 May 1988 may ratify, accept or approve this Charter without considering itself bound by at least the provisions corresponding to the provisions of the European Social Charter and, where appropriate, of the Additional Protocol, to which it was bound.",
+        "label_en": "Article B, Paragraph 1",
+        "text_fr": "Aucune Partie contractante à la Charte sociale européenne ou Partie au Protocole additionnel du 5 mai 1988 ne peut ratifier, accepter ou approuver la présente Charte sans se considérer liée au moins par les dispositions correspondant aux dispositions de la Charte sociale européenne et, le cas échéant, du Protocole additionnel, auxquelles elle était liée.",
+        "label_fr": "Article B, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P3-B-02-163",
+        "text_en": "Acceptance of the obligations of any provision of this Charter shall, from the date of entry into force of those obligations for the Party concerned, result in the corresponding provision of the European Social Charter and, where appropriate, of its Additional Protocol of 1988 ceasing to apply to the Party concerned in the event of that Party being bound by the first of those instruments or by both instruments.",
+        "label_en": "Article B, Paragraph 2",
+        "text_fr": "L'acceptation des obligations de toute disposition de la présente Charte aura pour effet que, à partir de la date d'entrée en vigueur de ces obligations à l'égard de la Partie concernée, la disposition correspondante de la Charte sociale européenne et, le cas échéant, de son Protocole additionnel de 1988 cessera de s'appliquer à la Partie concernée au cas où cette Partie serait liée par le premier des deux instruments précités ou par les deux instruments.",
+        "label_fr": "Article B, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P4-00-163",
+        "text_en": "Part IV",
+        "label_en": "Part IV",
+        "text_fr": "Partie IV",
+        "label_fr": "Partie IV",
+        "children": [
+            "P4-C-00-163", "P4-D-00-163"
+        ]
+    },
+    {
+        "id": "P4-C-00-163",
+        "text_en": "Article C - Supervision of the implementation of the undertakings contained in this Charter\nThe implementation of the legal obligations contained in this Charter shall be submitted to the same supervision as the European Social Charter.",
+        "label_en": "Article C",
+        "text_fr": "Article C - Contrôle de l'application des engagements contenus dans la présente Charte\nL'application des engagements juridiques contenus dans la présente Charte sera soumise au même contrôle que celui de la Charte sociale européenne.",
+        "label_fr": "Article C",
+        "children": []
+    },
+    {
+        "id": "P4-D-00-163",
+        "text_en": "Article D - Collective complaints",
+        "label_en": "Article D, Introduction",
+        "text_fr": "Article D-Réclamations collectives",
+        "label_fr": "Article D, Introduction",
+        "children": [
+            "P4-D-01-163", "P4-D-02-163"
+        ]
+    },
+    {
+        "id": "P4-D-01-163",
+        "text_en": "The provisions of the Additional Protocol to the European Social Charter providing for a system of collective complaints shall apply to the undertakings given in this Charter for the States which have ratified the said Protocol.",
+        "label_en": "Article D, Paragraph 1",
+        "text_fr": "Les dispositions du Protocole additionnel à la Charte sociale européenne prévoyant un système de réclamations collectives s'appliqueront aux dispositions souscrites en application de la présente Charte pour les Etats qui ont ratifié ledit Protocole.",
+        "label_fr": "Article D, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P4-D-02-163",
+        "text_en": "Any State which is not bound by the Additional Protocol to the European Social Charter providing for a system of collective complaints may when depositing its instrument of ratification, acceptance or approval of this Charter or at any time thereafter, declare by notification addressed to the Secretary General of the Council of Europe, that it accepts the supervision of its obligations under this Charter following the procedure provided for in the said Protocol.",
+        "label_en": "Article D, Paragraph 2",
+        "text_fr": "Tout Etat qui n'est pas lié par le Protocole additionnel à la Charte sociale européenne prévoyant un système de réclamations collectives pourra, lors du dépôt de son instrument de ratification, d'acceptation ou d'approbation de la présente Charte ou à tout autre moment par la suite, déclarer par notification adressée au Secrétaire Général du Conseil de l'Europe qu'il accepte le contrôle des obligations souscrites au titre de la présente Charte selon la procédure prévue par ledit Protocole.",
+        "label_fr": "Article D, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P5-00-163",
+        "text_en": "Part V",
+        "label_en": "Part V",
+        "text_fr": "Partie V",
+        "label_fr": "Partie V",
+        "children": [
+            "P5-E-00-163", "P5-F-00-163", "P5-G-00-163", "P5-H-00-163", "P5-I-00-163", "P5-J-00-163"
+        ]
+    },
+    {
+        "id": "P5-E-00-163",
+        "text_en": "Article E-Non-discrimination\nThe enjoyment of the rights set forth in this Charter shall be secured without discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national extraction or social origin, health, association with a national minority, birth or other status.",
+        "label_en": "Article E",
+        "text_fr": "Article E-Non-discrimination\nLa jouissance des droits reconnus dans la présente Charte doit être assurée sans distinction aucune fondée notamment sur la race, la couleur, le sexe, la langue, la religion, les opinions politiques ou toutes autres opinions, l'ascendance nationale ou l'origine sociale, la santé, l'appartenance à une minorité nationale, la naissance ou toute autre situation.",
+        "label_fr": "Article E",
+        "children": []
+    },
+    {
+        "id": "P5-F-00-163",
+        "text_en": "Article F - Derogations in time of war or public emergency",
+        "label_en": "Article F, Introduction",
+        "text_fr": "Article F - Dérogations en cas de guerre ou de danger public",
+        "label_fr": "Article F, Introduction",
+        "children": [
+            "P5-F-01-163", "P5-F-02-163"
+        ]
+    },
+    {
+        "id": "P5-F-01-163",
+        "text_en": "In time of war or other public emergency threatening the life of the nation any Party may take measures derogating from its obligations under this Charter to the extent strictly required by the exigencies of the situation, provided that such measures are not inconsistent with its other obligations under international law.",
+        "label_en": "Article F, Paragraph 1",
+        "text_fr": "En cas de guerre ou en cas d'autre danger public menaçant la vie de la nation, toute Partie peut prendre des mesures dérogeant aux obligations prévues par la présente Charte, dans la stricte mesure où la situation l'exige et à la condition que ces mesures ne soient pas en contradiction avec les autres obligations découlant du droit international.",
+        "label_fr": "Article F, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P5-F-02-163",
+        "text_en": "Any Party which has availed itself of this right of derogation shall, within a reasonable lapse of time, keep the Secretary General of the Council of Europe fully informed of the measures taken and of the reasons therefor. It shall likewise inform the Secretary General when such measures have ceased to operate and the provisions of the Charter which it has accepted are again being fully executed.",
+        "label_en": "Article F, Paragraph 2",
+        "text_fr": "Toute Partie ayant exercé ce droit de dérogation tient, dans un délai raisonnable, le Secrétaire Général du Conseil de l'Europe pleinement informé des mesures prises et des motifs qui les ont inspirées. Elle doit également informer le Secrétaire Général de la date à laquelle ces mesures ont cessé d'être en vigueur et à laquelle les dispositions de la Charte qu'elle a acceptées reçoivent de nouveau pleine application.",
+        "label_fr": "Article F, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P5-G-00-163",
+        "text_en": "Article G-Restrictions",
+        "label_en": "Article G, Introduction",
+        "text_fr": "Article G - Restrictions",
+        "label_fr": "Article G, Introduction",
+        "children": [
+            "P5-G-01-163", "P5-G-02-163"
+        ]
+    },
+    {
+        "id": "P5-G-01-163",
+        "text_en": "The rights and principles set forth in Part I when effectively realised, and their effective exercise as provided for in Part II, shall not be subject to any restrictions or limitations not specified in those parts, except such as are prescribed by law and are necessary in a democratic society for the protection of the rights and freedoms of others or for the protection of public interest, national security, public health, or morals.",
+        "label_en": "Article G, Paragraph 1",
+        "text_fr": "Les droits et principes énoncés dans la partie I, lorsqu'ils seront effectivement mis en œuvre, et l'exercice effectif de ces droits et principes, tel qu'il est prévu dans la partie II, ne pourront faire l'objet de restrictions ou limitations non spécifiées dans les parties I et II, à l'exception de celles prescrites par la loi et qui sont nécessaires, dans une société démocratique, pour garantir le respect des droits et des libertés d'autrui ou pour protéger l'ordre public, la sécurité nationale, la santé publique ou les bonnes mœurs.",
+        "label_fr": "Article G, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P5-G-02-163",
+        "text_en": "The restrictions permitted under this Charter to the rights and obligations set forth herein shall not be applied for any purpose other than that for which they have been prescribed.",
+        "label_en": "Article G, Paragraph 2",
+        "text_fr": "Les restrictions apportées en vertu de la présente Charte aux droits et obligations reconnus dans celle-ci ne peuvent être appliquées que dans le but pour lequel elles ont été prévues",
+        "label_fr": "Article G, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P5-H-00-163",
+        "text_en": "Article H - Relations between the Charter and domestic law or international agreements\nThe provisions of this Charter shall not prejudice the provisions of domestic law or of any bilateral or multilateral treaties, conventions or agreements which are already in force, or may come into force, under which more favourable treatment would be accorded to the persons protected.",
+        "label_en": "Article H",
+        "text_fr": "Article H - Relations entre la Charte et le droit interne ou les accords internationaux\nLes dispositions de la présente Charte ne portent pas atteinte aux dispositions de droit interne et des traités, conventions ou accords bilatéraux ou multilatéraux qui sont ou entreront en vigueur et qui seraient plus favorables aux personnes protégées.",
+        "label_fr": "Article H",
+        "children": []
+    },
+    {
+        "id": "P5-I-00-163",
+        "text_en": "Article I - Implementation of the undertakings given",
+        "label_en": "Article I, Introduction",
+        "text_fr": "Article I - Mise en œuvre des engagements souscrits",
+        "label_fr": "Article I, Introduction",
+        "children": [
+            "P5-I-01-163", "P5-I-02-163"
+        ]
+    },
+    {
+        "id": "P5-I-01-163",
+        "text_en": "Without prejudice to the methods of implementation foreseen in these articles the relevant provisions of Articles 1 to 31 of Part II of this Charter shall be implemented by:\na laws or regulations;\nb agreements between employers or employers' organisations and workers' organisations;\nc a combination of those two methods;\nd other appropriate means.",
+        "label_en": "Article I, Paragraph 1",
+        "text_fr": "Sans préjudice des moyens de mise en œuvre énoncés par ces articles, les dispositions pertinentes des articles 1 à 31 de la partie II de la présente Charte sont mises en œuvre par:\na la législation ou la réglementation;\nb des conventions conclues entre employeurs ou organisations d'employeurs et organisations de travailleurs;\nc une combinaison de ces deux méthodes;\nd d'autres moyens appropriés.",
+        "label_fr": "Article I, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P5-I-02-163",
+        "text_en": "Compliance with the undertakings deriving from the provisions of paragraphs 1, 2, 3, 4, 5 and 7 of Article 2, paragraphs 4, 6 and 7 of Article 7, paragraphs 1, 2, 3 and 5 of Article 10 and Articles 21 and 22 of Part II of this Charter shall be regarded as effective if the provisions are applied, in accordance with paragraph 1 of this article, to the great majority of the workers concerned.",
+        "label_en": "Article I, Paragraph 2",
+        "text_fr": "Les engagements découlant des paragraphes 1, 2, 3, 4, 5 et 7 de l'article 2, des paragraphes 4, 6 et 7 de l'article 7, des paragraphes 1, 2, 3 et 5 de l'article 10 et des articles 21 et 22 de la partie II de la présente Charte seront considérés comme remplis dès lors que ces dispositions seront appliquées, conformément au paragraphe 1 du présent article, à la grande majorité des travailleurs intéressés.",
+        "label_fr": "Article I, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P5-J-00-163",
+        "text_en": "Article J-Amendments",
+        "label_en": "Article J, Introduction",
+        "text_fr": "Article J-Amendements",
+        "label_fr": "Article J, Introduction",
+        "children": [
+            "P5-J-01-163", "P5-J-02-163", "P5-J-03-163", "P5-J-04-163"
+        ]
+    },
+    {
+        "id": "P5-J-01-163",
+        "text_en": "Any amendment to Parts I and II of this Charter with the purpose of extending the rights guaranteed in this Charter as well as any amendment to Parts III to VI, proposed by a Party or by the Governmental Committee, shall be communicated to the Secretary General of the Council of Europe and forwarded by the Secretary General to the Parties to this Charter.",
+        "label_en": "Article J, Paragraph 1",
+        "text_fr": "Tout amendement aux parties I et II de la présente Charte destiné à étendre les droits garantis par la présente Charte et tout amendement aux parties III à VI, proposé par une Partie ou par le Comité gouvernemental, est communiqué au Secrétaire Général du Conseil de l'Europe et transmis par le Secrétaire Général aux Parties à la présente Charte.",
+        "label_fr": "Article J, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P5-J-02-163",
+        "text_en": "Any amendment proposed in accordance with the provisions of the preceding paragraph shall be examined by the Governmental Committee which shall submit the text adopted to the Committee of Ministers for approval after consultation with the Parliamentary Assembly. After its approval by the Committee of Ministers this text shall be forwarded to the Parties for acceptance.",
+        "label_en": "Article J, Paragraph 2",
+        "text_fr": "Tout amendement proposé conformément aux dispositions du paragraphe précédent est examiné par le Comité gouvernemental qui soumet le texte adopté à l'approbation du Comité des Ministres après consultation de l'Assemblée parlementaire. Après son approbation par le Comité des Ministres, ce texte est communiqué aux Parties en vue de son acceptation.",
+        "label_fr": "Article J, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P5-J-03-163",
+        "text_en": "Any amendment to Part I and to Part II of this Charter shall enter into force, in respect of those Parties which have accepted it, on the first day of the month following the expiration of a period of one month after the date on which three Parties have informed the Secretary General that they have accepted it.\nIn respect of any Party which subsequently accepts it, the amendment shall enter into force on the first day of the month following the expiration of a period of one month after the date on which that Party has informed the Secretary General of its acceptance.",
+        "label_en": "Article J, Paragraph 3",
+        "text_fr": "Tout amendement à la partie I et à la partie II de la présente Charte entrera en vigueur, à l'égard des Parties qui l'ont accepté, le premier jour du mois qui suit l'expiration d'une période d'un mois après la date à laquelle trois Parties auront informé le Secrétaire Général qu'elles l'ont accepté.\nPour toute Partie qui l'aura accepté ultérieurement, l'amendement entrera en vigueur le premier jour du mois qui suit l'expiration d'une période d'un mois après la date à laquelle ladite Partie aura informé le Secrétaire Général de son acceptation.",
+        "label_fr": "Article J, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P5-J-04-163",
+        "text_en": "Any amendment to Parts III to VI of this Charter shall enter into force on the first day of the month following the expiration of a period of one month after the date on which all Parties have informed the Secretary General that they have accepted it.",
+        "label_en": "Article J, Paragraph 4",
+        "text_fr": "Tout amendement aux parties III à VI de la présente Charte entrera en vigueur le premier jour du mois qui suit l'expiration d'une période d'un mois après la date à laquelle toutes les Parties auront informé le Secrétaire Général qu'elles l'ont accepté.",
+        "label_fr": "Article J, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P6-00-163",
+        "text_en": "Part VI",
+        "label_en": "Part VI",
+        "text_fr": "Partie VI",
+        "label_fr": "Partie VI",
+        "children": [
+            "P6-K-00-163", "P6-L-00-163", "P6-M-00-163", "P6-N-00-163", "P6-O-00-163"
+        ]
+    },
+    {
+        "id": "P6-K-00-163",
+        "text_en": "Article K - Signature, ratification and entry into force",
+        "label_en": "Article K, Introduction",
+        "text_fr": "Article K - Signature, ratification et entrée en vigueur",
+        "label_fr": "Article K, Introduction",
+        "children": [
+            "P6-K-01-163", "P6-K-02-163", "P6-K-03-163"
+        ]
+    },
+    {
+        "id": "P6-K-01-163",
+        "text_en": "This Charter shall be open for signature by the member States of the Council of Europe. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.",
+        "label_en": "Article K, Paragraph 1",
+        "text_fr": "La présente Charte est ouverte à la signature des Etats membres du Conseil de l'Europe. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d'acceptation ou d'approbation seront déposés près le Secrétaire Général du Conseil de l'Europe.",
+        "label_fr": "Article K, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P6-K-02-163",
+        "text_en": "This Charter shall enter into force on the first day of the month following the expiration of a period of one month after the date on which three member States of the Council of Europe have expressed their consent to be bound by this Charter in accordance with the preceding paragraph.",
+        "label_en": "Article K, Paragraph 2",
+        "text_fr": "La présente Charte entrera en vigueur le premier jour du mois qui suit l'expiration d'une période d'un mois après la date à laquelle trois Etats membres du Conseil de l'Europe auront exprimé leur consentement à être liés par la présente Charte, conformément aux dispositions du paragraphe précédent.",
+        "label_fr": "Article K, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P6-K-03-163",
+        "text_en": "In respect of any member State which subsequently expresses its consent to be bound by this Charter, it shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of ratification, acceptance or approval.",
+        "label_en": "Article K, Paragraph 3",
+        "text_fr": "Pour tout Etat membre qui exprimera ultérieurement son consentement à être lié par la présente Charte, celle-ci entrera en vigueur le premier jour du mois qui suit l'expiration d'une période d'un mois après la date du dépôt de l'instrument de ratification, d'acceptation ou d'approbation.",
+        "label_fr": "Article K, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P6-L-00-163",
+        "text_en": "Article L-Territorial application",
+        "label_en": "Article L, Introduction",
+        "text_fr": "Article L - Application territoriale",
+        "label_fr": "Article L, Introduction",
+        "children": [
+            "P6-L-01-163", "P6-L-02-163", "P6-L-03-163", "P6-L-04-163"
+        ]
+    },
+    {
+        "id": "P6-L-01-163",
+        "text_en": "This Charter shall apply to the metropolitan territory of each Party. Each signatory may, at the time of signature or of the deposit of its instrument of ratification, acceptance or approval, specify, by declaration addressed to the Secretary General of the Council of Europe, the territory which shall be considered to be its metropolitan territory for this purpose.",
+        "label_en": "Article L, Paragraph 1",
+        "text_fr": "La présente Charte s'applique au territoire métropolitain de chaque Partie. Tout signataire peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d'acceptation ou d'approbation, préciser, par déclaration faite au Secrétaire Général du Conseil de l'Europe, le territoire qui est considéré à cette fin comme son territoire métropolitain.",
+        "label_fr": "Article L, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P6-L-02-163",
+        "text_en": "Any signatory may, at the time of signature or of the deposit of its instrument of ratification, acceptance or approval, or at any time thereafter, declare by notification addressed to the Secretary General of the Council of Europe, that the Charter shall extend in whole or in part to a non-metropolitan territory or territories specified in the said declaration for whose international relations it is responsible or for which it assumes international responsibility. It shall specify in the declaration the articles or paragraphs of Part II of the Charter which it accepts as binding in respect of the territories named in the declaration.",
+        "label_en": "Article L, Paragraph 2",
+        "text_fr": "Tout signataire peut, au moment de la signature ou au moment du dépôt de l'instrument de ratification, d'acceptation ou d'approbation, ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire Général du Conseil de l'Europe, que la Charte, en tout ou en partie, s'appliquera à celui ou à ceux des territoires non métropolitains désignés dans ladite déclaration et dont il assure les relations internationales ou dont il assume la responsabilité internationale. Il spécifiera dans cette déclaration les articles ou paragraphes de la partie II de la Charte qu'il accepte comme obligatoires en ce qui concerne chacun des territoires désignés dans la déclaration.",
+        "label_fr": "Article L, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P6-L-03-163",
+        "text_en": "The Charter shall extend its application to the territory or territories named in the aforesaid declaration as from the first day of the month following the expiration of a period of one month after the date of receipt of the notification of such declaration by the Secretary General.",
+        "label_en": "Article L, Paragraph 3",
+        "text_fr": "La Charte s'appliquera au territoire ou aux territoires désignés dans la déclaration visée au paragraphe précédent à partir du premier jour du mois suivant l'expiration d'une période d'un mois après la date de réception de la notification de cette déclaration par le Secrétaire Général.",
+        "label_fr": "Article L, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P6-L-04-163",
+        "text_en": "Any Party may declare at a later date by notification addressed to the Secretary General of the Council of Europe that, in respect of one or more of the territories to which the Charter has been applied in accordance with paragraph 2 of this article, it accepts as binding any articles or any numbered paragraphs which it has not already accepted in respect of that territory or territories. Such undertakings subsequently given shall be deemed to be an integral part of the original declaration in respect of the territory concerned, and shall have the same effect as from the first day of the month following the expiration of a period of one month after the date of receipt of such notification by the Secretary General.",
+        "label_en": "Article L, Paragraph 4",
+        "text_fr": "Toute Partie pourra, à tout moment ultérieur, déclarer, par notification adressée au Secrétaire Général du Conseil de l'Europe, que, en ce qui concerne un ou plusieurs des territoires auxquels la Charte s'applique en vertu du paragraphe 2 du présent article, elle accepte comme obligatoire tout article ou paragraphe numéroté qu'elle n'avait pas encore accepté en ce qui concerne ce ou ces territoires. Ces engagements ultérieurs seront réputés partie intégrante de la déclaration originale en ce qui concerne le territoire en question et porteront les mêmes effets à partir du premier jour du mois suivant l'expiration d'une période d'un mois après la date de réception de la notification par le Secrétaire Général.",
+        "label_fr": "Article L, Paragraphe 4",
+        "children": []
+    },
+    {
+        "id": "P6-M-00-163",
+        "text_en": "Article M- Denunciation",
+        "label_en": "Article M, Introduction",
+        "text_fr": "Article M - Dénonciation",
+        "label_fr": "Article M, Introduction",
+        "children": [
+            "P6-M-01-163", "P6-M-02-163", "P6-M-03-163"
+        ]
+    },
+    {
+        "id": "P6-M-01-163",
+        "text_en": "Any Party may denounce this Charter only at the end of a period of five years from the date on which the Charter entered into force for it, or at the end of any subsequent period of two years, and in either case after giving six months' notice to the Secretary General of the Council of Europe who shall inform the other Parties accordingly.",
+        "label_en": "Article M, Paragraph 1",
+        "text_fr": "Aucune Partie ne peut dénoncer la présente Charte avant l'expiration d'une période de cinq ans après la date à laquelle la Charte est entrée en vigueur en ce qui la concerne, ou avant l'expiration de toute autre période ultérieure de deux ans et, dans tous les cas, un préavis de six mois sera notifié au Secrétaire Général du Conseil de l'Europe, qui en informera les autres Parties.",
+        "label_fr": "Article M, Paragraphe 1",
+        "children": []
+    },
+    {
+        "id": "P6-M-02-163",
+        "text_en": "Any Party may, in accordance with the provisions set out in the preceding paragraph, denounce any article or paragraph of Part II of the Charter accepted by it provided that the number of articles or paragraphs by which this Party is bound shall never be less than sixteen in the former case and sixty-three in the latter and that this number of articles or paragraphs shall continue to include the articles selected by the Party among those to which special reference is made in Article A, paragraph 1, sub-paragraph b.",
+        "label_en": "Article M, Paragraph 2",
+        "text_fr": "Toute Partie peut, aux termes des dispositions énoncées dans le paragraphe précédent, dénoncer tout article ou paragraphe de la partie II de la Charte qu'elle a accepté, sous réserve que le nombre des articles ou paragraphes auxquels cette Partie est tenue ne soit jamais inférieur à seize dans le premier cas et à soixante-trois dans le second et que ce nombre d'articles ou paragraphes continue de comprendre les articles choisis par cette Partie parmi ceux auxquels une référence spéciale est faite dans l'article A, paragraphe 1, alinéa b.",
+        "label_fr": "Article M, Paragraphe 2",
+        "children": []
+    },
+    {
+        "id": "P6-M-03-163",
+        "text_en": "Any Party may denounce the present Charter or any of the articles or paragraphs of Part II of the Charter under the conditions specified in paragraph 1 of this article in respect of any territory to which the said Charter is applicable, by virtue of a declaration made in accordance with paragraph 2 of Article L.",
+        "label_en": "Article M, Paragraph 3",
+        "text_fr": "Toute Partie peut dénoncer la présente Charte ou tout article ou paragraphe de la partie II de la Charte aux conditions prévues au paragraphe 1 du présent article, en ce qui concerne tout territoire auquel s'applique la Charte en vertu d'une déclaration faite conformément au paragraphe 2 de l'article L.",
+        "label_fr": "Article M, Paragraphe 3",
+        "children": []
+    },
+    {
+        "id": "P6-N-00-163",
+        "text_en": "Article N - Appendix\nThe appendix to this Charter shall form an integral part of it.",
+        "label_en": "Article N",
+        "text_fr": "Article N- Annexe\nL'annexe à la présente Charte fait partie intégrante de celle-ci.",
+        "label_fr": "Article N",
+        "children": []
+    },
+    {
+        "id": "P6-O-00-163",
+        "text_en": "Article O- Notifications\nThe Secretary General of the Council of Europe shall notify the member States of the Council and the Director General of the International Labour Office of:\na any signature;\nb the deposit of any instrument of ratification, acceptance or approval;\nc any date of entry into force of this Charter in accordance with Article K;\nd any declaration made in application of Articles A, paragraphs 2 and 3, D, paragraphs 1 and 2, F, paragraph 2, L, paragraphs 1, 2, 3 and 4;\ne any amendment in accordance with Article J;\nf any denunciation in accordance with Article M;\ng any other act, notification or communication relating to this Charter.",
+        "label_en": "Article O",
+        "text_fr": "Article O- Notifications\nLe Secrétaire Général du Conseil de l'Europe notifiera aux Etats membres du Conseil et au Directeur général du Bureau international du travail:\na toute signature;\nb le dépôt de tout instrument de ratification, d'acceptation ou d'approbation;\nc toute date d'entrée en vigueur de la présente Charte conformément à son article K;\nd toute déclaration en application des articles A, paragraphes 2 et 3, D, paragraphes 1 et 2, F, paragraphe 2, et L, paragraphes 1, 2, 3 et 4;\ne tout amendement conformément à l'article J;\nf toute dénonciation conformément à l'article M;\ng tout autre acte, notification ou communication ayant trait à la présente Charte.",
+        "label_fr": "Article O",
+        "children": []
+    },
+    {
+        "id": "signature-00-163",
+        "text_en": "In witness whereof, the undersigned, being duly authorised thereto, have signed this revised Charter. Done at Strasbourg, this 3rd day of May 1996, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe and to the Director General of the International Labour Office.",
+        "label_en": "Signatures",
+        "text_fr": "En foi de quoi, les soussignés, dûment autorisés à cet effet, ont signé la présente Charte révisée. Fait à Strasbourg, le 3 mai 1996, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l'Europe. Le Secrétaire Général du Conseil de l'Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l'Europe et au Directeur général du Bureau international du travail.",
+        "label_fr": "Signatures",
+        "children": []
+    }
+]
